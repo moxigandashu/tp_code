@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyboard_mode_qwert">qwerty</string>
+    <string name="keyboard_mode_num">123</string>
+    <string name="keyboard_copy">tampal</string>
+    <string name="internayional_splash_thrd_desc"><![CDATA[Dail lebih banyak & Simpan lebih banyak wang]]></string>
+    <string name="internayional_splash_sec_desc">Di mana sahaja anda pergi, Di mana sahaja kita memanggil</string>
+    <string name="internayional_splash_firt_desc">Kualiti suara stabil</string>
+    <string name="internayional_splash_thrd_title">Panggil global secara bijak</string>
+    <string name="internayional_splash_sec_title">Panggil ke seluruh dunia</string>
+    <string name="internayional_splash_firt_title">Jelas, Stabil, Lancar</string>
+    <string name="splash_skip">Langkau</string>
+    <string name="splash_login">KURANG IT SEKARANG</string>
+    <string name="conact_detail_edit">Edit</string>
+    <string name="super_search_hint">Carian</string>
+    <string name="dialer_dialog_cancel">Batalkan</string>
+    <string name="dialer_dialog_ensure">Pasti</string>
+    <string name="dialer_dialog_call_forward">Memanggil Kembali ke</string>
+    <string name="internation_best_discount">Diskaun Besar</string>
+    <string name="international_profile">Profil</string>
+    <string name="international_conacts">Kenalan</string>
+    <string name="dialer_call_record">Rekod Panggilan</string>
+    <string name="international_dialer">Dialer</string>
+    <string name="contacts_no_permission">Atau periksa kebenaran sistem</string>
+    <string name="contacts_no_empty">Tiada kenalan yang dijumpai</string>
+    <string name="calllog_no_empty">Tiada rekod panggilan yang dijumpai</string>
+    <string name="permission_noti_contacts">Permintaan kebenaran: Kenalan</string>
+    <string name="permission_noti_phone">Permintaan kebenaran: Telefon</string>
+    <string name="contacts_add_fail">Gagal menambah kenalan</string>
+    <string name="contacts_edit_fail">Edit kenalan gagal</string>
+    <string name="phonepad_copy_none">Tiada kandungan untuk ditampal</string>
+
+    <string name="voip_sign_with_mobile">Masuk dengan mudah alih</string>
+    <string name="voip_login_with_twitter">Masuk dengan Twitter</string>
+    <string name="voip_login_with_facebook">Daftar masuk dengan Facebook</string>
+    <string name="voip_login_with_google">Log masuk dengan Google</string>
+</resources>

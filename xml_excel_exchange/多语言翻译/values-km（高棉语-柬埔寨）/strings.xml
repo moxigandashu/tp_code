@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyboard_mode_qwert">qwerty</string>
+    <string name="keyboard_mode_num">123</string>
+    <string name="keyboard_copy">បិទភ្ជាប់</string>
+    <string name="internayional_splash_thrd_desc"><![CDATA[ចុចច្រើនទៀតនិងរក្សាទុកប្រាក់បន្ថែមទៀត]]></string>
+    <string name="internayional_splash_sec_desc">នៅគ្រប់ទីកន្លែងដែលអ្នកទៅគ្រប់ទីកន្លែងដែលយើងហៅ</string>
+    <string name="internayional_splash_firt_desc">គុណភាពស្ថេរភាពនៃសំលេង</string>
+    <string name="internayional_splash_thrd_title">ការហៅទូរស័ព្ទជាសកលដោយឈ្លាសវៃ</string>
+    <string name="internayional_splash_sec_title">ការហៅទាំងអស់នៅលើពិភពលោក</string>
+    <string name="internayional_splash_firt_title">ច្បាស់ណាស់, មានស្ថេរភាព, រលូន</string>
+    <string name="splash_skip">រំលង</string>
+    <string name="splash_login">សាកល្បងវាឥឡូវនេះ</string>
+    <string name="conact_detail_edit">កែសម្រួល</string>
+    <string name="super_search_hint">ស្វែងរក</string>
+    <string name="dialer_dialog_cancel">បោះបង់</string>
+    <string name="dialer_dialog_ensure">សូមប្រាកដថា</string>
+    <string name="dialer_dialog_call_forward">ការហៅត្រឡប់វិញ</string>
+    <string name="internation_best_discount">ការបញ្ចុះតម្លៃយ៉ាងខ្លាំង</string>
+    <string name="international_profile">ទម្រង់</string>
+    <string name="international_conacts">ទំនាក់ទំនង</string>
+    <string name="dialer_call_record">ហៅកំណត់ត្រា</string>
+    <string name="international_dialer">ហៅទូរស័ព្ទ</string>
+    <string name="contacts_no_permission">ឬពិនិត្យមើលការអនុញ្ញាតប្រព័ន្ធ</string>
+    <string name="contacts_no_empty">រកមិនឃើញទំនាក់ទំនង</string>
+    <string name="calllog_no_empty">គ្មានកំណត់ត្រាហៅបានរកឃើញ</string>
+    <string name="permission_noti_contacts">សំណើសិទ្ធិ: ទំនាក់ទំនង</string>
+    <string name="permission_noti_phone">សំណើសិទ្ធិ: ទូរស័ព្ទ</string>
+    <string name="contacts_add_fail">បានបរាជ័យក្នុងការបន្ថែមទំនាក់ទំនង</string>
+    <string name="contacts_edit_fail">បរាជ័យក្នុងការកែសម្រួលទំនាក់ទំនង</string>
+    <string name="phonepad_copy_none">គ្មានមាតិកាដើម្បីបិទភ្ជាប់</string>
+
+    <string name="voip_sign_with_mobile">ចូលជាមួយទូរស័ព្ទដៃ</string>
+    <string name="voip_login_with_twitter">ចូលជាមួយក្នុង Twitter</string>
+    <string name="voip_login_with_facebook">ចុះឈ្មោះជាមួយហ្វេសប៊ុក</string>
+    <string name="voip_login_with_google">ចូលដោយប្រើ Google</string>
+</resources>

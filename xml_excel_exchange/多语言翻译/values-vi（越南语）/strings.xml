@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyboard_mode_qwert">qwerty</string>
+    <string name="keyboard_mode_num">123</string>
+    <string name="keyboard_copy">dán</string>
+    <string name="internayional_splash_thrd_desc"><![CDATA[Quay số nhiều hơn & Tiết kiệm nhiều tiền hơn]]></string>
+    <string name="internayional_splash_sec_desc">Bất cứ nơi nào bạn đi, Bất cứ nơi nào chúng tôi gọi</string>
+    <string name="internayional_splash_firt_desc">Chất lượng giọng nói ổn định</string>
+    <string name="internayional_splash_thrd_title">Gọi toàn cầu một cách khôn ngoan</string>
+    <string name="internayional_splash_sec_title">Gọi trên toàn thế giới</string>
+    <string name="internayional_splash_firt_title">Rõ ràng, ổn định, mượt</string>
+    <string name="splash_skip">Bỏ qua</string>
+    <string name="splash_login">THỬ NGAY BÂY GIỜ</string>
+    <string name="conact_detail_edit">Chỉnh sửa</string>
+    <string name="super_search_hint">Tìm kiếm</string>
+    <string name="dialer_dialog_cancel">Hủy</string>
+    <string name="dialer_dialog_ensure">Chắc chắn rồi</string>
+    <string name="dialer_dialog_call_forward">Gọi Quay lại</string>
+    <string name="internation_best_discount">Giảm giá lớn</string>
+    <string name="international_profile">Hồ sơ</string>
+    <string name="international_conacts">Liên hệ</string>
+    <string name="dialer_call_record">Hồ sơ cuộc gọi</string>
+    <string name="international_dialer">Quay số</string>
+    <string name="contacts_no_permission">Hoặc kiểm tra sự cho phép hệ thống</string>
+    <string name="contacts_no_empty">Không tìm thấy liên hệ nào</string>
+    <string name="calllog_no_empty">Không tìm thấy hồ sơ cuộc gọi</string>
+    <string name="permission_noti_contacts">Yêu cầu quyền: Danh bạ</string>
+    <string name="permission_noti_phone">Yêu cầu quyền: Điện thoại</string>
+    <string name="contacts_add_fail">Không thể thêm địa chỉ liên hệ</string>
+    <string name="contacts_edit_fail">Chỉnh sửa số liên lạc không thành công</string>
+    <string name="phonepad_copy_none">Không có nội dung để dán</string>
+
+    <string name="voip_sign_with_mobile">Đăng nhập bằng điện thoại di động</string>
+    <string name="voip_login_with_twitter">Đăng nhập bằng Twitter</string>
+    <string name="voip_login_with_facebook">Đăng nhập vao facebook</string>
+    <string name="voip_login_with_google">Đăng nhập bằng Google</string>
+</resources>

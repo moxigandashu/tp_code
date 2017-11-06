@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--翻译内容-->
+    <string name="calllog_no_empty">ไม่พบบันทึกการโทร</string>
+    <string name="conact_detail_edit">แก้ไข</string>
+    <string name="contacts_no_empty">ไม่พบที่อยู่ติดต่อ</string>
+    <string name="contacts_no_permission">ให้สิทธิ์</string>
+    <string name="dialer_call_record">เรียกระเบียน</string>
+    <string name="dialer_dialog_call_forward">โทรติดต่อกลับ</string>
+    <string name="dialer_dialog_cancel">ยกเลิก</string>
+    <string name="dialer_dialog_ensure">แน่</string>
+    <string name="internation_best_discount">ส่วนลด</string>
+    <string name="international_conacts">ติดต่อ</string>
+    <string name="international_dialer">โทร</string>
+    <string name="international_profile">โปรไฟล์</string>
+    <string name="internayional_splash_firt_desc">คุณภาพของเสียง</string>
+    <string name="internayional_splash_firt_title">ใส มั่นคง เรียบ</string>
+    <string name="internayional_splash_sec_desc">ทุกที่ ทุกที่ที่เราเรียก</string>
+    <string name="internayional_splash_sec_title">โทรไปทั่วโลก</string>
+    <string name="internayional_splash_thrd_desc"><![CDATA[เรียกเพิ่มเติม และบันทึกเพิ่มเติมเงิน]]></string>
+    <string name="internayional_splash_thrd_title">โทรทั่วโลกอย่างชาญฉลาด</string>
+    <string name="keyboard_copy">วาง</string>
+    <string name="keyboard_mode_num">123</string>
+    <string name="keyboard_mode_qwert">qwerty</string>
+    <string name="splash_login">ลองตอนนี้</string>
+    <string name="splash_skip">ข้าม</string>
+    <string name="super_search_hint">การค้นหา</string>
+    <string name="permission_noti_contacts">สิทธิ์ขอ: ติดต่อ</string>
+    <string name="permission_noti_phone">สิทธิ์ขอ: โทรศัพท์</string>
+    <string name="contacts_add_fail">ไม่สามารถเพิ่มผู้ติดต่อ</string>
+    <string name="contacts_edit_fail">แก้ไขรายชื่อติดต่อล้มเหลว</string>
+    <string name="phonepad_copy_none">เนื้อหาไม่มีการวาง</string>
+
+    <string name="voip_sign_with_mobile">ลงชื่อเข้าใช้กับมือถือ</string>
+    <string name="voip_login_with_twitter">ลงชื่อเข้าใช้ ด้วย Twitter</string>
+    <string name="voip_login_with_facebook">ลงชื่อเข้าใช้ ด้วย Facebook</string>
+    <string name="voip_login_with_google">ลงชื่อเข้าใช้ ด้วย Google</string>
+</resources>

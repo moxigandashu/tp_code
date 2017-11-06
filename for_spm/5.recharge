@@ -1,0 +1,25 @@
+mysql> select substr(recharge_phone, 1, 4) as country_code,  truncate(sum(sale_price),2) as sum from timecharge_trade where status <> 'NOT_PAY' and order_id like "GB%" group by substr(recharge_phone, 1, 4);
+ERROR 2006 (HY000): MySQL server has gone away
+No connection. Trying to reconnect...
+Connection id:    896377505
+Current database: oceanus
+
++--------------+---------+
+| country_code | sum     |
++--------------+---------+
+| +1           |  5503.65|
+| +27          |    0.99 |
+| +39          |    2.99 |
+| +49          |    0.10 |
+| +60          |    0.20 |
+| +62          |    0.99 |
+| +63          | 3805.20 |
+| +66          |    2.18 |
+| +83          |    1.29 |
+| +852         |   16.17 |
+| +86          |  108.21 |
+| +886         |   30.10 |
+| +91          |    3.67 |
+| +92          |   16.08 |
+| +966         |    0.10 |
++--------------+---------+

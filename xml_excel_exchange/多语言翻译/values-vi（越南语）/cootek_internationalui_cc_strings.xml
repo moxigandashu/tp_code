@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--通话-->
+    <string name="internationalui_call_process_country_china">Trung Quốc</string>
+    <string name="internationalui_call_process_calling">Gọi</string>
+    <string name="internationalui_call_process_record">Ghi lại</string>
+    <string name="internationalui_call_process_redial">Gọi lại</string>
+    <string name="internationalui_call_process_recharge">Nạp tiền</string>
+    <string name="internationalui_call_process_mute">Tắt tiếng</string>
+    <string name="internationalui_call_process_speaker">Loa</string>
+
+    <!--通话结束-->
+    <string name="internationalui_disconnect_close">Gần</string>
+    <string name="internationalui_disconnect_redial">Gọi lại</string>
+
+    <!--登录-->
+    <string name="internationalui_login_head_title">Tạo tài khoản</string>
+    <string name="internationalui_country_input_hint">Quốc gia</string>
+    <string name="internationalui_country_code_input_hint">mã</string>
+    <string name="internationalui_phone_input_hint">Nhập số điện thoại của bạn</string>
+    <string name="internationalui_validation_code_input_hint">Nhập mã xác minh</string>
+    <string name="internationalui_validation_code_query_hint">Xác minh số điện thoại</string>
+    <string name="internationalui_validation_code_requery">Gửi lại</string>
+    <string name="internationalui_validation_code_countdown">%d giây</string>
+    <string name="internationalui_network_unavailable">Không có kết nối mạng</string>
+    <string name="internationalui_loading_text">tải</string>
+
+
+    <string name="internationalui_verification_over_limit">Ngoài giới hạn - chỉ có ba mã xác minh mỗi ngày</string>
+    <string name="internationalui_verification_phone_format_error">Định dạng không chính xác của số</string>
+    <string name="internationalui_verification_phone_number_error">Số không chính xác</string>
+    <string name="internationalui_verification_phone_input_invalid_error">Số không hợp lệ</string>
+    <string name="internationalui_verification_send_ok">Đã gửi</string>
+
+    <string name="internationalui_login_verification_expired">Xác minh mã đã hết hạn</string>
+    <string name="internationalui_login_code_input_insuffient">Vui lòng cung cấp mật khẩu hoặc xác minh mã</string>
+    <string name="internationalui_login_data_not_found">Người dùng không tồn tại</string>
+    <string name="internationalui_login_authorize_fail">Mã xác minh sai</string>
+    <string name="internationalui_login_no_permission">Quyền bị từ chối</string>
+
+    <string name="internationalui_network_other">Ngoại lệ yêu cầu mạng</string>
+    <string name="internationalui_number_invalid_hint">Vui lòng kiểm tra số điện thoại của bạn</string>
+    <string name="internationalui_login_page_start_hint">Đăng nhập</string>
+    <string name="internationalui_logout">Đăng xuất</string>
+
+    <!--备注"internationalui_captcha_message_template"勿改，为英文短信固定格式检测-->
+    <string name="internationalui_captcha_message_template">Your verification code: (\\d{4})</string>
+
+    <string name="internationalui_login_country_code_dialog_title">Chú ý</string>
+    <string name="internationalui_login_country_code_dialog_message">Vui lòng chọn mã quốc gia</string>
+    <string name="internationalui_login_country_code_dialog_ok">được</string>
+
+    <!--选择国家区号-->
+    <string name="internationalui_select_country_head_title">Chọn đất nước của bạn</string>
+    <string name="internationalui_country_search_hint">Tìm kiếm</string>
+    <string name="internationalui_country_search_nothing_found">Xin lỗi, không tìm thấy gì</string>
+
+    <!--个人中心-->
+    <string name="internationalui_personal_center_head_title">Thông tin của tôi</string>
+    <string name="internationalui_personal_center_slogan">Đăng nhập và thưởng thức quay số!</string>
+    <string name="internationalui_call_rates">Giá cước cuộc gọi</string>
+    <string name="internationalui_invite_friends">Mời bạn bè</string>
+    <string name="internationalui_international_free_call">Thực hiện cuộc gọi điện thoại ngay bây giờ</string>
+    <string name="internationalui_personal_center_credits">Tín dụng của tôi</string>
+    <string name="internationalui_personal_center_recharge">Nạp tiền</string>
+    <string name="internationalui_personal_center_recharge_title">Nạp tiền</string>
+    <string name="internationalui_personal_center_cloud_roaming">Cloud Roaming</string>
+    <string name="internationalui_personal_center_check_update_app">Phiên bản</string>
+    <string name="internationalui_personal_center_feedback">Phản hồi</string>
+    <!--资费列表-->
+    <string name="internationalui_call_rate_head_title">Giá cước cuộc gọi</string>
+    <string name="internationalui_call_rate_search_hint">Vui lòng nhập quốc gia và mã</string>
+    <string name="internationalui_call_rate_column_code">Mã</string>
+    <string name="internationalui_call_rate_column_country">Các quốc gia và khu vực</string>
+    <string name="internationalui_call_rate_column_credit_per_minute">Tín dụng / phút</string>
+    <string name="internationalui_call_msg_warning_country_code">Vui lòng xác minh mã quốc gia cho điện thoại: %s</string>
+    <string name="internationalui_call_msg_choose_country">Chọn quốc gia</string>
+
+    <!--扣费列表-->
+    <string name="internationalui_cost_list_head_title">Chi tiết chi tiết</string>
+    <string name="internationalui_cost_list_my_credits_text">Tín dụng của tôi</string>
+    <string name="internationalui_cost_list_recharge_history_title">Lịch sử Nạp tiền</string>
+    <string name="internationalui_cost_list_cost_history_title">Lịch sử chi phí</string>
+    <string name="internationalui_cost_list_no_history">không có hồ sơ</string>
+    <string name="internationalui_cost_list_recharge_order">gọi món&#32;</string>
+    <string name="internationalui_cost_list_cloud_roaming_purchase_order">Cloud Roaming Order&#32;</string>
+    <string name="internationalui_cost_list_loading_more_date">...</string>
+    <string name="internationalui_cost_list_loading_no_more_date">Không còn dữ liệu nữa</string>
+
+    <!--公司品牌声明-->
+    <string name="internationalui_international_brand_delare_title">Dịch vụ được cung cấp bởi Touchpal. Tất cả các quyền.</string>
+
+    <string name="internationalui_feedback_putinbutton_log_only">chỉ ghi nhật ký</string>
+
+    <!-- update -->
+    <string name="internationalui_dlg_standard_title">Thông báo</string>
+    <string name="internationalui_pro_apk_mandatory_update">Phiên bản mới đã sẵn sàng, bạn phải nâng cấp trước khi bạn tiếp tục</string>
+    <string name="internationalui_pref_software_version">Phiên bản phần mềm</string>
+    <string name="internationalui_pref_update_software_title">Cập nhật phần mềm</string>
+    <string name="internationalui_update_uptodate">Kiểm tra cập nhật</string>
+    <string name="internationalui_update_title">Phiên bản mới</string>
+    <string name="internationalui_update_checking">Kiểm tra cập nhật</string>
+    <string name="internationalui_update_no_network">Không có kết nối mạng</string>
+    <string name="internationalui_update_ongoing">Cập nhật đang chạy ẩn</string>
+    <string name="internationalui_update_dialog_btn_text_update_now">Cập nhật bây giờ</string>
+    <string name="internationalui_update_dialog_btn_text_install_now">Cài đặt ngay</string>
+    <string name="internationalui_update_dialog_btn_text_later">Một lát sau</string>
+
+    <string name="internationalui_download_app_failed_no_space">Tải xuống bị lỗi do không còn khoảng trống</string>
+    <string name="internationalui_download_app_in_progress">Phiên bản mới đang được tải xuống</string>
+    <string name="internationalui_download_app_in_progress2">%s đang tải xuống</string>
+    <string name="internationalui_download_app_failed">Không thể tải xuống, hãy kiểm tra mạng của bạn</string>
+    <string name="internationalui_download_app_success">Tải xuống thành công</string>
+    <string name="internationalui_download_app_background">Cập nhật miễn phí</string>
+    <string name="internationalui_download_app_background_normal">Tải bình thường</string>
+    <string name="internationalui_download_app_background_high_speed">Tải tốc độ cao</string>
+    <string name="internationalui_download_app_percentage">Tỷ lệ tải xuống:</string>
+    <string name="internationalui_download_app_percentage2">Tải xuống %s phần trăm:</string>
+    <string name="internationalui_presentation_update">Cập nhật nhật ký</string>
+    <string name="internationalui_presentation_ing">Đang làm...</string>
+
+    <string name="internationalui_dialog_logout_msg">Bạn có chắc chắn muốn đăng xuất không?</string>
+    <string name="internationalui_dialog_btn_msg_sure">Vâng</string>
+    <string name="internationalui_dialog_btn_msg_cancel">Không</string>
+    <string name="internationalui_dialog_title_msg">Chú ý</string>
+
+    <!--登录-用户协议-->
+    <string name="internationalui_service_policy_area_agree_text">Để sử dụng Dialer TP, vui lòng đọc và làm theo</string>
+    <string name="internationalui_service_policy_area_and_text">và</string>
+    <string name="internationalui_service_policy_area_privicy_policy_text">Chính sách bảo mật</string>
+    <string name="internationalui_service_policy_area_terms_of_service_text">sự thỏa thuận của người dùng</string>
+    <string name="internationalui_service_policy_head_title">Điều khoản dịch vụ</string>
+
+    <string name="internationalui_dialog_title_tip">Chú ý</string>
+    <string name="internationalui_goto_recharge">Nạp tiền</string>
+
+    <string name="internationalui_activate">Kích hoạt</string>
+    <string name="internationalui_advices">Đề xuất</string>
+    <string name="internationalui_bug_report">Bug&#160;bài báo cáo</string>
+    <string name="internationalui_optimization">Tối ưu hóa</string>
+
+    <string name="internationalui_tips_error_phone_number">Số điện thoại sai</string>
+
+    <!--feedback-->
+    <string name="internationalui_feedback_content_hint">Phản hồi của bạn rất quan trọng với chúng tôi ...</string>
+    <string name="internationalui_feedback_email">E-mail&#160;địa chỉ nhà</string>
+    <string name="internationalui_feedback_email_hint">Rời khỏi&#160;của bạn&#160;e-mail&#160;xin vui lòng</string>
+    <string name="internationalui_feedback_phone">Điện thoại&#160;con số</string>
+    <string name="internationalui_feedback_phone_hint">không bắt buộc</string>
+    <string name="internationalui_feedback_putinbutton">đệ trình</string>
+    <string name="internationalui_voip_brand">Phản hồi được hỗ trợ bởi TouchPal</string>
+
+    <!--braintree-->
+    <string name="internationalui_braintree_purchase_best_discount_head_title">Nạp tiền</string>
+    <string name="internationalui_braintree_purchase_final_price">Giá cuối cùng</string>
+    <string name="internationalui_braintree_purchase_price_save">Giảm giá: %1$s %2$.2f</string>
+    <string name="internationalui_braintree_purchase_submit">Đệ trình</string>
+    <string name="internationalui_braintree_purchase_order_loading">Tạo đơn đặt hàng...</string>
+    <string name="internationalui_braintree_purchase_checkout_success">Thanh toán thành công</string>
+    <string name="internationalui_braintree_purchase_checkout_failed">Trả thất bại</string>
+    <string name="internationalui_braintree_purchase_checkout_canceled">Giao dịch đã bị hủy</string>
+    <string name="internationalui_braintree_purchase_braintree_setup_failed">Braintree khởi tạo thất bại</string>
+    <string name="internationalui_braintree_purchase_order_failed">Sự thất bại giao dịch</string>
+    <string name="internationalui_braintree_purchase_order_param_error">Thiếu tham số lệnh</string>
+    <string name="internationalui_braintree_purchase_developer_error">Xác minh thanh toán</string>
+    <string name="internationalui_braintree_purchase_server_error">Lỗi mạng nền tảng thanh toán</string>
+    <string name="internationalui_braintree_purchase_server_unavailable">Bảo trì nền tảng thanh toán</string>
+
+    <!--feedback-->
+    <string name="internationalui_feedback_title">Phản hồi</string>
+    <string name="internationalui_log_upload_success">sự thành công</string>
+    <string name="internationalui_feedback_noti1">Gửi thành công, cảm ơn bạn về phản hồi của bạn</string>
+    <string name="internationalui_feedback_noti2">Gửi thất bại, vui lòng kiểm tra cài đặt mạng</string>
+    <string name="internationalui_feedback_noti3">Vui lòng nhập câu hỏi và phản hồi của bạn</string>
+    <string name="internationalui_feedback_noti4">Nó bị hạn chế bởi 1500 từ, vui lòng kiểm tra và gửi lại</string>
+    <string name="internationalui_feedback_noti5">Vui lòng sửa tài khoản Email của bạn</string>
+    <string name="internationalui_feedback_noti6">Vui lòng sửa số điện thoại của bạn</string>
+    <string name="internationalui_feedback_tips_invalid_contact">Rời khỏi&#160;của bạn&#160;E-mail&#160;hoặc là&#160;Điện thoại di động&#160;xin vui lòng</string>
+
+    <!--voip disconnect-->
+    <string name="internationalui_disconnect_error_accounterr">Lỗi tài khoản</string>
+    <string name="internationalui_disconnect_error_accoutrepeat">Vui lòng quay lại sau</string>
+    <string name="internationalui_disconnect_error_actionerr">Tài khoản bất thường, vui lòng liên hệ với chúng tôi</string>
+    <string name="internationalui_disconnect_error_area">Khu vực không được hỗ trợ</string>
+    <string name="internationalui_disconnect_error_busy">Bận, quay lại sau</string>
+    <string name="internationalui_disconnect_error_checknet">Kiểm tra mạng của bạn và gọi lại xin vui lòng</string>
+    <string name="internationalui_disconnect_error_decline">Mặc định</string>
+    <string name="internationalui_disconnect_error_locationerr">Không có được vị trí</string>
+    <string name="internationalui_disconnect_error_neterror">Kiểm tra mạng của bạn và redial</string>
+    <string name="internationalui_disconnect_error_nomoney">Tín dụng đã hết</string>
+    <string name="internationalui_disconnect_error_normalcall">Lỗi mạng, hãy quay số lại sau</string>
+    <string name="internationalui_disconnect_error_nottpaccount">Chỉ có thể quay số người sử dụng TP Dialer</string>
+    <string name="internationalui_disconnect_error_restart">Vui lòng khởi động lại điện thoại của bạn</string>
+    <string name="internationalui_disconnect_error_routeerr">Số cố định không được hỗ trợ</string>
+    <string name="internationalui_disconnect_error_serverrestart">Ngoại lệ kết nối, vui lòng khởi động lại</string>
+    <string name="internationalui_disconnect_error_serverunknow">Không tìm thấy máy chủ, hãy quay số lại</string>
+    <string name="internationalui_disconnect_error_versionlow">Phiên bản thấp, vui lòng nâng cấp</string>
+    <string name="internationalui_disconnect_error_normal">Thanh toán bù trừ thông thường</string>
+    <string name="internationalui_disconnect_error_comment_busy">Số bạn quay số hiện giờ đang bận\n vui lòng quay số lại sau</string>
+    <string name="internationalui_disconnect_error_comment_no_answer">Không thể kết nối thuê bao hiện tại của bạn</string>
+
+    <!--voip-->
+    <string name="internationalui_permission_noti_audio">Yêu cầu quyền: Microphone</string>
+    <string name="internationalui_voip_call_noti7">Người gọi và người gọi điện không nên chia sẻ số</string>
+    <string name="internationalui_dialog_nevernotify">Không bao giờ thông báo</string>
+    <string name="internationalui_tips_use_country_calling_code">quay số với %s</string>
+    <!--new-->
+    <string name="internationalui_voip_notification_incall">Trong cuộc gọi(%s)</string>
+    <string name="internationalui_voip_notification_outgoing">Quay số…</string>
+    <string name="internationalui_voip_notification_incoming"><![CDATA[Gọi đến, nhấp và kiểm tra]]></string>
+    <string name="internationalui_country_token_invalid_error">Mã không hợp lệ</string>
+    <string name="internationalui_recharge_select_phonenumber">选择充值号码</string>
+    <string name="internationalui_retry">thử lại</string>
+
+    <string name="internationalui_stripe_money_lable">Tổng giá</string>
+    <string name="internationalui_stripe_money">%s đô la</string>
+    <string name="internationalui_stripe_totle_money">Cần phải trả số tiền</string>
+    <string name="internationalui_stripe_title">Trả</string>
+    <string name="internationalui_stripe_card_number_lable">Số thẻ tín dụng</string>
+    <string name="internationalui_stripe_card_number_hint">Vui lòng nhập số thẻ của bạn</string>
+    <string name="internationalui_stripe_expire_date_lable">Ngày hết hạn</string>
+    <string name="internationalui_stripe_expire_date_hint">Vui lòng chọn một ngày hết hạn</string>
+    <string name="internationalui_stripe_card_cvc_lable">CVC</string>
+    <string name="internationalui_stripe_card_cvc_hint">Vui lòng nhập thẻ sau ba số sau</string>
+    <string name="internationalui_stripe_card_msg_error">Kiểm tra thông tin không thành công, vui lòng kiểm tra xem thông tin nhập liệu có chính xác không</string>
+    <string name="internationalui_stripe_pay_loading_msg">Đang được thanh toán, vui lòng đợi</string>
+    <string name="internationalui_stripe_pay_btn_sure">xác nhận thanh toán</string>
+    <string name="internationalui_charge_result_exception">Ngoại lệ yêu cầu thanh toán, vui lòng kiểm tra các điểm của tôi sau</string>
+    <string name="internationalui_charge_create_token_exception">Không tạo được chứng từ thanh toán</string>
+
+    <string name="internationalui_date_pick_format_year">%s</string>
+    <string name="internationalui_date_pick_format_month">%s</string>
+</resources>

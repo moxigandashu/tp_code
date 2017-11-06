@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="tab_news">100</string>
+<string name="tab_video">101</string>
+<string name="tab_me">102</string>
+<string name="main_page">103</string>
+<string name="loading">104</string>
+<string name="last_node">105</string>
+<string name="follow">106</string>
+<string name="settings">107</string>
+<string name="version">108</string>
+<string name="about">109</string>
+<string name="unlogin">110</string>
+<string name="settings_push_title">111</string>
+<string name="settings_push_subtitle">112</string>
+<string name="settings_autostart_title">113</string>
+<string name="settings_autostart_subtitle">114</string>
+<string name="settings_lockscreen_title">115</string>
+<string name="settings_lockscreen_subtitle">116</string>
+<string name="close_title">117</string>
+<string name="close_reason1">118</string>
+<string name="close_reason2">119</string>
+<string name="close_reason3">120</string>
+<string name="skip">121</string>
+<string name="next">122</string>
+<string name="choose">123</string>
+<string name="net_error_title">124</string>
+<string name="net_error_subtitle">125</string>
+<string name="retry">126</string>
+<string name="replay">127</string>
+<string name="share">128</string>
+</resources>

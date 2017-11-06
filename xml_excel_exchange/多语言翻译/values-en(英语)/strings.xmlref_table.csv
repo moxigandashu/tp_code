@@ -1,0 +1,34 @@
+,code_str,name_str
+0,keyboard_mode_qwert,qwerty
+1,keyboard_mode_num,123
+2,keyboard_copy,paste
+3,internayional_splash_thrd_desc,Dial more & Save more money
+4,internayional_splash_sec_desc,"Wherever you go, Wherever we call"
+5,internayional_splash_firt_desc,Stable quality of voice
+6,internayional_splash_thrd_title,Call global wisely
+7,internayional_splash_sec_title,Call all over the world
+8,internayional_splash_firt_title,"Clear, Stable, Smooth"
+9,splash_skip,Skip
+10,splash_login,TRY IT NOW
+11,conact_detail_edit,Edit
+12,super_search_hint,Search
+13,dialer_dialog_cancel,Cancel
+14,dialer_dialog_ensure,Sure
+15,dialer_dialog_call_forward,Calling Back to
+16,internation_best_discount,Great Discount
+17,international_profile,Profile
+18,international_conacts,Contacts
+19,dialer_call_record,Call Records
+20,international_dialer,Dialer
+21,contacts_no_permission,Or check the system permission
+22,contacts_no_empty,No contacts found
+23,calllog_no_empty,No call records found
+24,permission_noti_contacts,Permission request:  Contacts
+25,permission_noti_phone,Permission request:  Phone
+26,contacts_add_fail,Failed to add a contact
+27,contacts_edit_fail,Edit contact failed
+28,phonepad_copy_none,No content to paste
+29,voip_sign_with_mobile,Sign in with mobile
+30,voip_login_with_twitter,Sign in with Twitter
+31,voip_login_with_facebook,Sign in with Facebook
+32,voip_login_with_google,Sign in with Google

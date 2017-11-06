@@ -1,0 +1,187 @@
+,code_str,name_str
+0,internationalui_call_process_country_china,China
+1,internationalui_call_process_calling,Calling
+2,internationalui_call_process_record,Record
+3,internationalui_call_process_redial,Redial
+4,internationalui_call_process_recharge,Recharge
+5,internationalui_call_process_mute,Mute
+6,internationalui_call_process_speaker,Speaker
+7,internationalui_disconnect_close,Close
+8,internationalui_disconnect_redial,Redial
+9,internationalui_login_head_title,Create Account 
+10,internationalui_country_input_hint,Country
+11,internationalui_country_code_input_hint,Code
+12,internationalui_phone_input_hint,Enter your phone number
+13,internationalui_validation_code_input_hint,Enter verify code
+14,internationalui_validation_code_query_hint,Verify phone number
+15,internationalui_validation_code_requery,Resend
+16,internationalui_validation_code_countdown,%d seconds
+17,internationalui_network_unavailable,No network connection
+18,internationalui_loading_text,Loading
+19,internationalui_verification_over_limit,Beyond limitations - only three of verify codes per day
+20,internationalui_verification_phone_format_error,Incorrect format of number
+21,internationalui_verification_phone_number_error,Incorrect number
+22,internationalui_verification_phone_input_invalid_error,Invalid number
+23,internationalui_verification_send_ok,Already sent
+24,internationalui_login_verification_expired,Verify code expired
+25,internationalui_login_code_input_insuffient,Please provide either password or verify code
+26,internationalui_login_data_not_found,User doesn°Øt exist
+27,internationalui_login_authorize_fail,Wrong verify code
+28,internationalui_login_no_permission,Permission denied
+29,internationalui_network_other,Network request exception
+30,internationalui_number_invalid_hint,Please check your phone number
+31,internationalui_login_page_start_hint,Login
+32,internationalui_logout,Log out
+33,internationalui_captcha_message_template,Your verification code: (\\d{4})
+34,internationalui_login_country_code_dialog_title,Attention
+35,internationalui_login_country_code_dialog_message,Please select the country code
+36,internationalui_login_country_code_dialog_ok,Ok
+37,internationalui_select_country_head_title,Select Your Country
+38,internationalui_country_search_hint,Search
+39,internationalui_country_search_nothing_found,"Sorry, nothing found"
+40,internationalui_personal_center_head_title,My Info
+41,internationalui_personal_center_slogan,Login and enjoy dialing!
+42,internationalui_call_rates,Call Rates
+43,internationalui_invite_friends,Invite Friends
+44,internationalui_international_free_call,Make a phone call now
+45,internationalui_personal_center_credits,My Credits
+46,internationalui_personal_center_recharge,Top up
+47,internationalui_personal_center_recharge_title,Recharge
+48,internationalui_personal_center_cloud_roaming,Cloud Roaming
+49,internationalui_personal_center_check_update_app,Version
+50,internationalui_personal_center_feedback,Feedback
+51,internationalui_call_rate_head_title,Call Rate
+52,internationalui_call_rate_search_hint,Please enter country and code
+53,internationalui_call_rate_column_code,Code
+54,internationalui_call_rate_column_country,Countries and regions
+55,internationalui_call_rate_column_credit_per_minute,Credits/Min
+56,internationalui_call_msg_warning_country_code,Please verify the country code for the phone: %s
+57,internationalui_call_msg_choose_country,Choose country
+58,internationalui_cost_list_head_title,Cost Detail
+59,internationalui_cost_list_my_credits_text,My Credits
+60,internationalui_cost_list_recharge_history_title,Recharge History
+61,internationalui_cost_list_cost_history_title,Cost History
+62,internationalui_cost_list_no_history,No record
+63,internationalui_cost_list_recharge_order,Order 
+64,internationalui_cost_list_cloud_roaming_purchase_order,Cloud Roaming Order 
+65,internationalui_cost_list_loading_more_date,...
+66,internationalui_cost_list_loading_no_more_date,No more data
+67,internationalui_international_brand_delare_title,Service provided by Touchpal. All right reserved.
+68,internationalui_feedback_putinbutton_log_only,UPLOAD LOG ONLY
+69,internationalui_dlg_standard_title,Notification
+70,internationalui_pro_apk_mandatory_update,"New version is ready, you have to upgrade before you continue"
+71,internationalui_pref_software_version,Software version
+72,internationalui_pref_update_software_title,Software update
+73,internationalui_update_uptodate,Check Updates
+74,internationalui_update_title,New Version
+75,internationalui_update_checking,Checking updates
+76,internationalui_update_no_network,No network connection
+77,internationalui_update_ongoing,Update is runing in the background
+78,internationalui_update_dialog_btn_text_update_now,Update now
+79,internationalui_update_dialog_btn_text_install_now,Install now
+80,internationalui_update_dialog_btn_text_later,Later
+81,internationalui_download_app_failed_no_space,Download failure due to no space left
+82,internationalui_download_app_in_progress,New version is downloading
+83,internationalui_download_app_in_progress2,The %s is downloading
+84,internationalui_download_app_failed,"Download failure, please check your network"
+85,internationalui_download_app_success,Download success
+86,internationalui_download_app_background,Update for free
+87,internationalui_download_app_background_normal,Normal download
+88,internationalui_download_app_background_high_speed,High speed download
+89,internationalui_download_app_percentage,Download percentage: 
+90,internationalui_download_app_percentage2,Download %s percentage: 
+91,internationalui_presentation_update,Update log
+92,internationalui_presentation_ing,Doing...
+93,internationalui_dialog_logout_msg,Are you sure you wanna log out£ø
+94,internationalui_dialog_btn_msg_sure,Yes
+95,internationalui_dialog_btn_msg_cancel,No
+96,internationalui_dialog_title_msg,Attention
+97,internationalui_service_policy_area_agree_text,"To use TP Dialer, please read and follow"
+98,internationalui_service_policy_area_and_text,and
+99,internationalui_service_policy_area_privicy_policy_text,Privacy Policy
+100,internationalui_service_policy_area_terms_of_service_text,User Agreement
+101,internationalui_service_policy_head_title,Terms of Service
+102,internationalui_dialog_title_tip,Attention
+103,internationalui_goto_recharge,Top up
+104,internationalui_activate,Activate
+105,internationalui_advices,Suggestions
+106,internationalui_bug_report,Bug?report
+107,internationalui_optimization,Optimization
+108,internationalui_tips_error_phone_number,Wrong phone number
+109,internationalui_feedback_content_hint,Your feedback is very important to us ...
+110,internationalui_feedback_email,Email?address
+111,internationalui_feedback_email_hint,Leave?your?email?please
+112,internationalui_feedback_phone,Phone?number
+113,internationalui_feedback_phone_hint,optional
+114,internationalui_feedback_putinbutton,SUBMIT
+115,internationalui_voip_brand,Feedback from TouchPal?Contacts support
+116,internationalui_braintree_purchase_best_discount_head_title,Recharge
+117,internationalui_braintree_purchase_final_price,Final Price
+118,internationalui_braintree_purchase_price_save,Discount: %1$s %2$.2f
+119,internationalui_braintree_purchase_submit,Submit
+120,internationalui_braintree_purchase_order_loading,Creating the order...
+121,internationalui_braintree_purchase_checkout_success,Pay success
+122,internationalui_braintree_purchase_checkout_failed,Pay failure
+123,internationalui_braintree_purchase_checkout_canceled,The transaction has been cancelled
+124,internationalui_braintree_purchase_braintree_setup_failed,Braintree initialization failure
+125,internationalui_braintree_purchase_order_failed,Transaction failure
+126,internationalui_braintree_purchase_order_param_error,Missing order parameter
+127,internationalui_braintree_purchase_developer_error,Payment verification
+128,internationalui_braintree_purchase_server_error,Payment platform network error
+129,internationalui_braintree_purchase_server_unavailable,Payment platform maintenance
+130,internationalui_feedback_title,Feedback
+131,internationalui_log_upload_success,success
+132,internationalui_feedback_noti1,"Submit success, thank you for your feedback"
+133,internationalui_feedback_noti2,"Submit failure, please check network settings"
+134,internationalui_feedback_noti3,Please enter your questions and feedback
+135,internationalui_feedback_noti4,"It\'s limited by 1500 words, please check and submit again"
+136,internationalui_feedback_noti5,Please correct your Email account
+137,internationalui_feedback_noti6,Please correct your phone number
+138,internationalui_feedback_tips_invalid_contact,Leave?your?Email?or?Mobile?please
+139,internationalui_disconnect_error_accounterr,Account error
+140,internationalui_disconnect_error_accoutrepeat,Please redial later
+141,internationalui_disconnect_error_actionerr,"Account abnormal, please contact us"
+142,internationalui_disconnect_error_area,Unsupported area
+143,internationalui_disconnect_error_busy,"Busy, redial later"
+144,internationalui_disconnect_error_checknet,Check your network and redial please
+145,internationalui_disconnect_error_decline,Callee is offline
+146,internationalui_disconnect_error_locationerr,Fail to get location
+147,internationalui_disconnect_error_neterror,Check your network and redial
+148,internationalui_disconnect_error_nomoney,Credits ran out
+149,internationalui_disconnect_error_normalcall,"Network error, please redial later"
+150,internationalui_disconnect_error_nottpaccount,Can only dial TP Dialer user
+151,internationalui_disconnect_error_restart,Please restart your phone
+152,internationalui_disconnect_error_routeerr,Unsupported fixed number
+153,internationalui_disconnect_error_serverrestart,"Connection exception, please reboot"
+154,internationalui_disconnect_error_serverunknow,"Server not found, please redial"
+155,internationalui_disconnect_error_versionlow,"Low version, please upgrade"
+156,internationalui_disconnect_error_normal,Normal Clearing
+157,internationalui_disconnect_error_comment_busy,The number you dialed is busy now\n please redial later
+158,internationalui_disconnect_error_comment_no_answer,The subscriber you are dailing cannot be connected now
+159,internationalui_permission_noti_audio,Permission request: Microphone
+160,internationalui_voip_call_noti7,Caller and callee should not share the number
+161,internationalui_dialog_nevernotify,Never notify again
+162,internationalui_tips_use_country_calling_code,dial with %s
+163,internationalui_voip_notification_incall,In Call(%s)
+164,internationalui_voip_notification_outgoing,Dialing°≠
+165,internationalui_voip_notification_incoming,"Call incoming, click & check"
+166,internationalui_country_token_invalid_error,Invalid token
+167,internationalui_recharge_select_phonenumber,—°‘Ò≥‰÷µ∫≈¬Î
+168,internationalui_retry,retry
+169,internationalui_stripe_money_lable,Total price
+170,internationalui_stripe_money,%s USD
+171,internationalui_stripe_totle_money,Need to pay the amount
+172,internationalui_stripe_title,Pay
+173,internationalui_stripe_card_number_lable,credit card number
+174,internationalui_stripe_card_number_hint,Please enter your card number
+175,internationalui_stripe_expire_date_lable,Expiry date
+176,internationalui_stripe_expire_date_hint,Please select a expiry date
+177,internationalui_stripe_card_cvc_lable,CVC
+178,internationalui_stripe_card_cvc_hint,Please enter the card after the back of the three digits
+179,internationalui_stripe_card_msg_error,"Verification of information failed, please check whether the input information is correct"
+180,internationalui_stripe_pay_loading_msg,"Being paid,please wait"
+181,internationalui_stripe_pay_btn_sure,confirm payment
+182,internationalui_charge_result_exception,"Payment request exception, please check my points later"
+183,internationalui_charge_create_token_exception,Failed to generate payment voucher
+184,internationalui_date_pick_format_year,%s
+185,internationalui_date_pick_format_month,%s

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--通话-->
+    <string name="internationalui_call_process_country_china">China</string>
+    <string name="internationalui_call_process_calling">Memanggil</string>
+    <string name="internationalui_call_process_record">Rekod</string>
+    <string name="internationalui_call_process_redial">Redial</string>
+    <string name="internationalui_call_process_recharge">Recharge</string>
+    <string name="internationalui_call_process_mute">Bisu</string>
+    <string name="internationalui_call_process_speaker">Speaker</string>
+
+    <!--通话结束-->
+    <string name="internationalui_disconnect_close">Tutup</string>
+    <string name="internationalui_disconnect_redial">Redial</string>
+
+    <!--登录-->
+    <string name="internationalui_login_head_title">Buat akaun</string>
+    <string name="internationalui_country_input_hint">Negara</string>
+    <string name="internationalui_country_code_input_hint">Kod</string>
+    <string name="internationalui_phone_input_hint">Masukkan nombor telefon anda</string>
+    <string name="internationalui_validation_code_input_hint">Masukkan kod pengesahan</string>
+    <string name="internationalui_validation_code_query_hint">Sahkan nombor telefon</string>
+    <string name="internationalui_validation_code_requery">Hantar semula</string>
+    <string name="internationalui_validation_code_countdown">%d detik</string>
+    <string name="internationalui_network_unavailable">Tiada sambungan rangkaian</string>
+    <string name="internationalui_loading_text">Memuatkan</string>
+
+
+    <string name="internationalui_verification_over_limit">Selain batasan - hanya tiga kod pengesahan setiap hari</string>
+    <string name="internationalui_verification_phone_format_error">Format nombor yang tidak betul</string>
+    <string name="internationalui_verification_phone_number_error">Nombor salah</string>
+    <string name="internationalui_verification_phone_input_invalid_error">Nombor tidak sah</string>
+    <string name="internationalui_verification_send_ok">Sudah dihantar</string>
+
+    <string name="internationalui_login_verification_expired">Sahkan kod tamat tempoh</string>
+    <string name="internationalui_login_code_input_insuffient">Sila sediakan sama ada kata laluan atau kod sahkan</string>
+    <string name="internationalui_login_data_not_found">Pengguna tidak wujud</string>
+    <string name="internationalui_login_authorize_fail">Kod pengesahan yang salah</string>
+    <string name="internationalui_login_no_permission">Kebenaran dinafikan</string>
+
+    <string name="internationalui_network_other">Pengecualian permintaan rangkaian</string>
+    <string name="internationalui_number_invalid_hint">Sila semak nombor telefon anda</string>
+    <string name="internationalui_login_page_start_hint">Log masuk</string>
+    <string name="internationalui_logout">Log keluar</string>
+
+    <!--备注"internationalui_captcha_message_template"勿改，为英文短信固定格式检测-->
+    <string name="internationalui_captcha_message_template">Your verification code: (\\d{4})</string>
+
+    <string name="internationalui_login_country_code_dialog_title">Perhatian</string>
+    <string name="internationalui_login_country_code_dialog_message">Sila pilih kod negara</string>
+    <string name="internationalui_login_country_code_dialog_ok">key</string>
+
+    <!--选择国家区号-->
+    <string name="internationalui_select_country_head_title">Pilih Negara Anda</string>
+    <string name="internationalui_country_search_hint">carian</string>
+    <string name="internationalui_country_search_nothing_found">Maaf, tiada apa yang ditemui</string>
+
+    <!--个人中心-->
+    <string name="internationalui_personal_center_head_title">Profil saya</string>
+    <string name="internationalui_personal_center_slogan">Log masuk dan nikmati mendail!</string>
+    <string name="internationalui_call_rates">Kadar Panggilan</string>
+    <string name="internationalui_invite_friends">Menjemput kawan-kawan</string>
+    <string name="internationalui_international_free_call">Buat panggilan telefon sekarang</string>
+    <string name="internationalui_personal_center_credits">Kredit saya</string>
+    <string name="internationalui_personal_center_recharge">Tambah nilai</string>
+    <string name="internationalui_personal_center_recharge_title">Recharge</string>
+    <string name="internationalui_personal_center_cloud_roaming">Perayauan Awan</string>
+    <string name="internationalui_personal_center_check_update_app">Versi</string>
+    <string name="internationalui_personal_center_feedback">Maklumbalas</string>
+    <!--资费列表-->
+    <string name="internationalui_call_rate_head_title">Kadar Panggilan</string>
+    <string name="internationalui_call_rate_search_hint">Sila masukkan negara dan kod</string>
+    <string name="internationalui_call_rate_column_code">Kod</string>
+    <string name="internationalui_call_rate_column_country">Negara dan wilayah</string>
+    <string name="internationalui_call_rate_column_credit_per_minute">Kredit / min</string>
+    <string name="internationalui_call_msg_warning_country_code">Sila sahkan kod negara untuk telefon: %s</string>
+    <string name="internationalui_call_msg_choose_country">Pilih negara</string>
+
+    <!--扣费列表-->
+    <string name="internationalui_cost_list_head_title">Detail kos</string>
+    <string name="internationalui_cost_list_my_credits_text">Kredit saya</string>
+    <string name="internationalui_cost_list_recharge_history_title">Recharge History</string>
+    <string name="internationalui_cost_list_cost_history_title">Sejarah Kos</string>
+    <string name="internationalui_cost_list_no_history">tiada rekod</string>
+    <string name="internationalui_cost_list_recharge_order">perintah&#32;</string>
+    <string name="internationalui_cost_list_cloud_roaming_purchase_order">Perintah Perayauan Awan&#32;</string>
+    <string name="internationalui_cost_list_loading_more_date">...</string>
+    <string name="internationalui_cost_list_loading_no_more_date">Tiada lagi data</string>
+
+    <!--公司品牌声明-->
+    <string name="internationalui_international_brand_delare_title">Perkhidmatan yang disediakan oleh TouchPal. Hak cipta terpelihara.</string>
+
+    <string name="internationalui_feedback_putinbutton_log_only">muat naik log sahaja</string>
+
+    <!-- update -->
+    <string name="internationalui_dlg_standard_title">Pemberitahuan</string>
+    <string name="internationalui_pro_apk_mandatory_update">Versi baru sudah siap, anda mesti menaik taraf sebelum anda meneruskan</string>
+    <string name="internationalui_pref_software_version">Versi perisian</string>
+    <string name="internationalui_pref_update_software_title">Kemas kini perisian</string>
+    <string name="internationalui_update_uptodate">Periksa Kemas kini</string>
+    <string name="internationalui_update_title">Versi baru</string>
+    <string name="internationalui_update_checking">Memeriksa kemas kini</string>
+    <string name="internationalui_update_no_network">Tiada sambungan rangkaian</string>
+    <string name="internationalui_update_ongoing">Kemas kini sedang berjalan di latar belakang</string>
+    <string name="internationalui_update_dialog_btn_text_update_now">Mengemas kini sekarang</string>
+    <string name="internationalui_update_dialog_btn_text_install_now">Install sekarang</string>
+    <string name="internationalui_update_dialog_btn_text_later">Kemudian</string>
+
+    <string name="internationalui_download_app_failed_no_space">Muat turun kegagalan kerana tiada ruang kosong</string>
+    <string name="internationalui_download_app_in_progress">Versi baru memuat turun</string>
+    <string name="internationalui_download_app_in_progress2">%s sedang memuat turun</string>
+    <string name="internationalui_download_app_failed">Muat turun kegagalan, sila semak rangkaian anda</string>
+    <string name="internationalui_download_app_success">Muat turun kejayaan</string>
+    <string name="internationalui_download_app_background">Kemas kini secara percuma</string>
+    <string name="internationalui_download_app_background_normal">Muat turun biasa</string>
+    <string name="internationalui_download_app_background_high_speed">Muat turun kelajuan tinggi</string>
+    <string name="internationalui_download_app_percentage">Muat turun peratusan:</string>
+    <string name="internationalui_download_app_percentage2">Muat turun %s peratusan:</string>
+    <string name="internationalui_presentation_update">Kemas kini log</string>
+    <string name="internationalui_presentation_ing">Melakukan...</string>
+
+    <string name="internationalui_dialog_logout_msg">Adakah anda pasti ingin keluar?</string>
+    <string name="internationalui_dialog_btn_msg_sure">Ya</string>
+    <string name="internationalui_dialog_btn_msg_cancel">Tidak</string>
+    <string name="internationalui_dialog_title_msg">Perhatian</string>
+
+    <!--登录-用户协议-->
+    <string name="internationalui_service_policy_area_agree_text">Untuk menggunakan TP Dialer, baca dan ikuti</string>
+    <string name="internationalui_service_policy_area_and_text">dan</string>
+    <string name="internationalui_service_policy_area_privicy_policy_text">Dasar Privasi</string>
+    <string name="internationalui_service_policy_area_terms_of_service_text">Perjanjian Pengguna</string>
+    <string name="internationalui_service_policy_head_title">Syarat Perkhidmatan</string>
+
+    <string name="internationalui_dialog_title_tip">Perhatian</string>
+    <string name="internationalui_goto_recharge">Tambah nilai</string>
+
+    <string name="internationalui_activate">Aktifkan</string>
+    <string name="internationalui_advices">Cadangan</string>
+    <string name="internationalui_bug_report">Bug&#160;Lapor</string>
+    <string name="internationalui_optimization">Pengoptimuman</string>
+
+    <string name="internationalui_tips_error_phone_number">Nombor telefon salah</string>
+
+    <!--feedback-->
+    <string name="internationalui_feedback_content_hint">Maklum balas anda sangat penting kepada kami ...</string>
+    <string name="internationalui_feedback_email">E-mel&#160;alamat</string>
+    <string name="internationalui_feedback_email_hint">Tinggalkan&#160;anda&#160;e-mel&#160;sila</string>
+    <string name="internationalui_feedback_phone">Telefon&#160;nombor</string>
+    <string name="internationalui_feedback_phone_hint">pilihan</string>
+    <string name="internationalui_feedback_putinbutton">hantar</string>
+    <string name="internationalui_voip_brand">Maklum balas yang disokong oleh TouchPal</string>
+
+    <!--braintree-->
+    <string name="internationalui_braintree_purchase_best_discount_head_title">Recharge</string>
+    <string name="internationalui_braintree_purchase_final_price">harga akhir</string>
+    <string name="internationalui_braintree_purchase_price_save">Diskaun: %1$s %2$.2f</string>
+    <string name="internationalui_braintree_purchase_submit">Hantar</string>
+    <string name="internationalui_braintree_purchase_order_loading">Mewujudkan pesanan...</string>
+    <string name="internationalui_braintree_purchase_checkout_success">Bayar kejayaan</string>
+    <string name="internationalui_braintree_purchase_checkout_failed">Kegagalan membayar</string>
+    <string name="internationalui_braintree_purchase_checkout_canceled">Transaksi telah dibatalkan</string>
+    <string name="internationalui_braintree_purchase_braintree_setup_failed">Kegagalan permulaan Braintree</string>
+    <string name="internationalui_braintree_purchase_order_failed">Kegagalan transaksi</string>
+    <string name="internationalui_braintree_purchase_order_param_error">Parameter pesanan yang tiada</string>
+    <string name="internationalui_braintree_purchase_developer_error">Pengesahan pembayaran</string>
+    <string name="internationalui_braintree_purchase_server_error">Ralat rangkaian platform pembayaran</string>
+    <string name="internationalui_braintree_purchase_server_unavailable">Penyelenggaraan platform pembayaran</string>
+
+    <!--feedback-->
+    <string name="internationalui_feedback_title">Maklumbalas</string>
+    <string name="internationalui_log_upload_success">kejayaan</string>
+    <string name="internationalui_feedback_noti1">Hantar kejayaan, terima kasih atas maklum balas anda</string>
+    <string name="internationalui_feedback_noti2">Hantar kegagalan, sila semak tetapan rangkaian</string>
+    <string name="internationalui_feedback_noti3">Sila masukkan soalan dan maklum balas anda</string>
+    <string name="internationalui_feedback_noti4">Ia dibatasi oleh 1500 perkataan, sila semak dan hantar lagi</string>
+    <string name="internationalui_feedback_noti5">Sila betulkan akaun E-mel anda</string>
+    <string name="internationalui_feedback_noti6">Sila betulkan nombor telefon anda</string>
+    <string name="internationalui_feedback_tips_invalid_contact">Tinggalkan&#160;anda&#160;E-mel&#160;atau&#160;Mobile&#160;sila</string>
+
+    <!--voip disconnect-->
+    <string name="internationalui_disconnect_error_accounterr">Kesalahan akaun</string>
+    <string name="internationalui_disconnect_error_accoutrepeat">Sila ulang semula kemudian</string>
+    <string name="internationalui_disconnect_error_actionerr">Akaun tidak normal, sila hubungi kami</string>
+    <string name="internationalui_disconnect_error_area">Kawasan tidak disokong</string>
+    <string name="internationalui_disconnect_error_busy">Sibuk, dail semula kemudian</string>
+    <string name="internationalui_disconnect_error_checknet">Periksa rangkaian anda dan buat semula</string>
+    <string name="internationalui_disconnect_error_decline">Callee tidak ada talian</string>
+    <string name="internationalui_disconnect_error_locationerr">Gagal mendapatkan lokasi</string>
+    <string name="internationalui_disconnect_error_neterror">Periksa rangkaian anda dan dail semula</string>
+    <string name="internationalui_disconnect_error_nomoney">Kredit berlarutan</string>
+    <string name="internationalui_disconnect_error_normalcall">Ralat rangkaian, sila rujuk semula kemudian</string>
+    <string name="internationalui_disconnect_error_nottpaccount">Hanya boleh mendail pengguna TP Dialer</string>
+    <string name="internationalui_disconnect_error_restart">Sila mulakan semula telefon anda</string>
+    <string name="internationalui_disconnect_error_routeerr">Nombor tetap yang tidak disokong</string>
+    <string name="internationalui_disconnect_error_serverrestart">Pengecualian sambungan, sila reboot</string>
+    <string name="internationalui_disconnect_error_serverunknow">Pelayan tidak dijumpai, sila buat semula</string>
+    <string name="internationalui_disconnect_error_versionlow">Versi rendah, sila naik taraf</string>
+    <string name="internationalui_disconnect_error_normal">Pembersihan Normal</string>
+    <string name="internationalui_disconnect_error_comment_busy">Nombor yang anda dail sibuk sekarang\n sila ulangi kemudian</string>
+    <string name="internationalui_disconnect_error_comment_no_answer">Pelanggan yang anda buat tidak boleh disambungkan sekarang</string>
+    <!--voip-->
+    <string name="internationalui_permission_noti_audio">Permintaan kebenaran: Mikrofon</string>
+    <string name="internationalui_voip_call_noti7">Pemanggil dan callee tidak sepatutnya berkongsi nombor itu</string>
+    <string name="internationalui_dialog_nevernotify">Jangan Beritahu</string>
+    <string name="internationalui_tips_use_country_calling_code">dail dengan %s</string>
+    <!--new-->
+    <string name="internationalui_voip_notification_incall">Dalam Panggilan(%s)</string>
+    <string name="internationalui_voip_notification_outgoing">Dialing…</string>
+    <string name="internationalui_voip_notification_incoming"><![CDATA[Panggil masuk, klik & tandakan]]></string>
+    <string name="internationalui_country_token_invalid_error">Token tidak sah</string>
+    <string name="internationalui_recharge_select_phonenumber">选择充值号码</string>
+    <string name="internationalui_retry">cuba semula</string>
+
+    <string name="internationalui_stripe_money_lable">Harga keseluruhan</string>
+    <string name="internationalui_stripe_money">%s Dolar Amerika</string>
+    <string name="internationalui_stripe_totle_money">Perlu membayar jumlahnya</string>
+    <string name="internationalui_stripe_title">Bayar</string>
+    <string name="internationalui_stripe_card_number_lable">nombor kredit kad</string>
+    <string name="internationalui_stripe_card_number_hint">Sila masukkan nombor kad anda</string>
+    <string name="internationalui_stripe_expire_date_lable">Tarikh luput</string>
+    <string name="internationalui_stripe_expire_date_hint">Sila pilih tarikh luput</string>
+    <string name="internationalui_stripe_card_cvc_lable">CVC</string>
+    <string name="internationalui_stripe_card_cvc_hint">Sila masukkan kad selepas bahagian belakang tiga digit</string>
+    <string name="internationalui_stripe_card_msg_error">Pengesahan maklumat gagal, sila semak sama ada maklumat input betul</string>
+    <string name="internationalui_stripe_pay_loading_msg">Dibayar, sila tunggu</string>
+    <string name="internationalui_stripe_pay_btn_sure">mengesahkan pembayaran</string>
+    <string name="internationalui_charge_result_exception">Pengecualian permintaan pembayaran, sila semak mata saya kemudian</string>
+    <string name="internationalui_charge_create_token_exception">Gagal menjana baucer pembayaran</string>
+
+    <string name="internationalui_date_pick_format_year">%s</string>
+    <string name="internationalui_date_pick_format_month">%s</string>
+</resources>

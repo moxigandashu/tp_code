@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--翻译内容-->
+    <string name="calllog_no_empty">Tak ditemukan record panggilan</string>
+    <string name="conact_detail_edit">Mengedit</string>
+    <string name="contacts_no_empty">Tidak ada kontak yang ditemukan</string>
+    <string name="contacts_no_permission">Pemberian izin</string>
+    <string name="dialer_call_record">Rekaman panggilan</string>
+    <string name="dialer_dialog_call_forward">Menelepon kembali untuk</string>
+    <string name="dialer_dialog_cancel">Batal</string>
+    <string name="dialer_dialog_ensure">Yakin</string>
+    <string name="internation_best_discount">Diskon Terbaik</string>
+    <string name="international_conacts">Kontak</string>
+    <string name="international_dialer">Dialer</string>
+    <string name="international_profile">Profil</string>
+    <string name="internayional_splash_firt_desc">Stabil kualitas suara</string>
+    <string name="internayional_splash_firt_title">Hapus, stabil, mulus</string>
+    <string name="internayional_splash_sec_desc">Ke manapun Anda pergi, dimanapun kita sebut</string>
+    <string name="internayional_splash_sec_title">Panggilan ke seluruh dunia</string>
+    <string name="internayional_splash_thrd_desc"><![CDATA[dial lebih & menghemat lebih banyak uang]]></string>
+    <string name="internayional_splash_thrd_title">Panggilan global dengan bijak</string>
+    <string name="keyboard_copy">pasta</string>
+    <string name="keyboard_mode_num">123</string>
+    <string name="keyboard_mode_qwert">qwerty</string>
+    <string name="splash_login">COBA SEKARANG</string>
+    <string name="splash_skip">Skip</string>
+    <string name="super_search_hint">Cari</string>
+    <string name="permission_noti_contacts">Izin permintaan: kontak</string>
+    <string name="permission_noti_phone">Izin permintaan: telepon</string>
+    <string name="contacts_add_fail">Gagal untuk menambahkan kontak</string>
+    <string name="contacts_edit_fail">Edit kegagalan kontak</string>
+    <string name="phonepad_copy_none">Tidak ada konten untuk menyisipkan</string>
+
+    <string name="voip_sign_with_mobile">Masuk dengan ponsel</string>
+    <string name="voip_login_with_twitter">Masuk dengan Twitter</string>
+    <string name="voip_login_with_facebook">Masuk dengan Facebook</string>
+    <string name="voip_login_with_google">Masuk dengan Google</string>
+</resources>

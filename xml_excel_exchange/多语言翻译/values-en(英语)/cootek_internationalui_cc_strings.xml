@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--通话-->
+    <string name="internationalui_call_process_country_china">China</string>
+    <string name="internationalui_call_process_calling">Calling</string>
+    <string name="internationalui_call_process_record">Record</string>
+    <string name="internationalui_call_process_redial">Redial</string>
+    <string name="internationalui_call_process_recharge">Recharge</string>
+    <string name="internationalui_call_process_mute">Mute</string>
+    <string name="internationalui_call_process_speaker">Speaker</string>
+
+    <!--通话结束-->
+    <string name="internationalui_disconnect_close">Close</string>
+    <string name="internationalui_disconnect_redial">Redial</string>
+
+    <!--登录-->
+    <string name="internationalui_login_head_title">Create Account </string>
+    <string name="internationalui_country_input_hint">Country</string>
+    <string name="internationalui_country_code_input_hint">Code</string>
+    <string name="internationalui_phone_input_hint">Enter your phone number</string>
+    <string name="internationalui_validation_code_input_hint">Enter verify code</string>
+    <string name="internationalui_validation_code_query_hint">Verify phone number</string>
+    <string name="internationalui_validation_code_requery">Resend</string>
+    <string name="internationalui_validation_code_countdown">%d seconds</string>
+    <string name="internationalui_network_unavailable">No network connection</string>
+    <string name="internationalui_loading_text">Loading</string>
+
+
+    <string name="internationalui_verification_over_limit">Beyond limitations - only three of verify codes per day</string>
+    <string name="internationalui_verification_phone_format_error">Incorrect format of number</string>
+    <string name="internationalui_verification_phone_number_error">Incorrect number</string>
+    <string name="internationalui_verification_phone_input_invalid_error">Invalid number</string>
+    <string name="internationalui_verification_send_ok">Already sent</string>
+
+    <string name="internationalui_login_verification_expired">Verify code expired</string>
+    <string name="internationalui_login_code_input_insuffient">Please provide either password or verify code</string>
+    <string name="internationalui_login_data_not_found">User doesn’t exist</string>
+    <string name="internationalui_login_authorize_fail">Wrong verify code</string>
+    <string name="internationalui_login_no_permission">Permission denied</string>
+
+    <string name="internationalui_network_other">Network request exception</string>
+    <string name="internationalui_number_invalid_hint">Please check your phone number</string>
+    <string name="internationalui_login_page_start_hint">Login</string>
+    <string name="internationalui_logout">Log out</string>
+
+    <!--备注"internationalui_captcha_message_template"勿改，为英文短信固定格式检测-->
+    <string name="internationalui_captcha_message_template">Your verification code: (\\d{4})</string>
+
+    <string name="internationalui_login_country_code_dialog_title">Attention</string>
+    <string name="internationalui_login_country_code_dialog_message">Please select the country code</string>
+    <string name="internationalui_login_country_code_dialog_ok">Ok</string>
+
+    <!--选择国家区号-->
+    <string name="internationalui_select_country_head_title">Select Your Country</string>
+    <string name="internationalui_country_search_hint">Search</string>
+    <string name="internationalui_country_search_nothing_found">Sorry, nothing found</string>
+
+    <!--个人中心-->
+    <string name="internationalui_personal_center_head_title">My Info</string>
+    <string name="internationalui_personal_center_slogan">Login and enjoy dialing!</string>
+    <string name="internationalui_call_rates">Call Rates</string>
+    <string name="internationalui_invite_friends">Invite Friends</string>
+    <string name="internationalui_international_free_call">Make a phone call now</string>
+    <string name="internationalui_personal_center_credits">My Credits</string>
+    <string name="internationalui_personal_center_recharge">Top up</string>
+    <string name="internationalui_personal_center_recharge_title">Recharge</string>
+    <string name="internationalui_personal_center_cloud_roaming">Cloud Roaming</string>
+    <string name="internationalui_personal_center_check_update_app">Version</string>
+    <string name="internationalui_personal_center_feedback">Feedback</string>
+    <!--资费列表-->
+    <string name="internationalui_call_rate_head_title">Call Rate</string>
+    <string name="internationalui_call_rate_search_hint">Please enter country and code</string>
+    <string name="internationalui_call_rate_column_code">Code</string>
+    <string name="internationalui_call_rate_column_country">Countries and regions</string>
+    <string name="internationalui_call_rate_column_credit_per_minute">Credits/Min</string>
+    <string name="internationalui_call_msg_warning_country_code">Please verify the country code for the phone: %s</string>
+    <string name="internationalui_call_msg_choose_country">Choose country</string>
+
+    <!--扣费列表-->
+    <string name="internationalui_cost_list_head_title">Cost Detail</string>
+    <string name="internationalui_cost_list_my_credits_text">My Credits</string>
+    <string name="internationalui_cost_list_recharge_history_title">Recharge History</string>
+    <string name="internationalui_cost_list_cost_history_title">Cost History</string>
+    <string name="internationalui_cost_list_no_history">No record</string>
+    <string name="internationalui_cost_list_recharge_order">Order&#32;</string>
+    <string name="internationalui_cost_list_cloud_roaming_purchase_order">Cloud Roaming Order&#32;</string>
+    <string name="internationalui_cost_list_loading_more_date">...</string>
+    <string name="internationalui_cost_list_loading_no_more_date">No more data</string>
+
+    <!--公司品牌声明-->
+    <string name="internationalui_international_brand_delare_title">Service provided by Touchpal. All right reserved.</string>
+
+    <string name="internationalui_feedback_putinbutton_log_only">UPLOAD LOG ONLY</string>
+
+    <!-- update -->
+    <string name="internationalui_dlg_standard_title">Notification</string>
+    <string name="internationalui_pro_apk_mandatory_update">New version is ready, you have to upgrade before you continue</string>
+    <string name="internationalui_pref_software_version">Software version</string>
+    <string name="internationalui_pref_update_software_title">Software update</string>
+    <string name="internationalui_update_uptodate">Check Updates</string>
+    <string name="internationalui_update_title">New Version</string>
+    <string name="internationalui_update_checking">Checking updates</string>
+    <string name="internationalui_update_no_network">No network connection</string>
+    <string name="internationalui_update_ongoing">Update is runing in the background</string>
+    <string name="internationalui_update_dialog_btn_text_update_now">Update now</string>
+    <string name="internationalui_update_dialog_btn_text_install_now">Install now</string>
+    <string name="internationalui_update_dialog_btn_text_later">Later</string>
+
+    <string name="internationalui_download_app_failed_no_space">Download failure due to no space left</string>
+    <string name="internationalui_download_app_in_progress">New version is downloading</string>
+    <string name="internationalui_download_app_in_progress2">The %s is downloading</string>
+    <string name="internationalui_download_app_failed">Download failure, please check your network</string>
+    <string name="internationalui_download_app_success">Download success</string>
+    <string name="internationalui_download_app_background">Update for free</string>
+    <string name="internationalui_download_app_background_normal">Normal download</string>
+    <string name="internationalui_download_app_background_high_speed">High speed download</string>
+    <string name="internationalui_download_app_percentage">Download percentage: </string>
+    <string name="internationalui_download_app_percentage2">Download %s percentage: </string>
+    <string name="internationalui_presentation_update">Update log</string>
+    <string name="internationalui_presentation_ing">Doing...</string>
+
+    <string name="internationalui_dialog_logout_msg">Are you sure you wanna log out？</string>
+    <string name="internationalui_dialog_btn_msg_sure">Yes</string>
+    <string name="internationalui_dialog_btn_msg_cancel">No</string>
+    <string name="internationalui_dialog_title_msg">Attention</string>
+
+    <!--登录-用户协议-->
+    <string name="internationalui_service_policy_area_agree_text">To use TP Dialer, please read and follow</string>
+    <string name="internationalui_service_policy_area_and_text">and</string>
+    <string name="internationalui_service_policy_area_privicy_policy_text">Privacy Policy</string>
+    <string name="internationalui_service_policy_area_terms_of_service_text">User Agreement</string>
+    <string name="internationalui_service_policy_head_title">Terms of Service</string>
+
+    <string name="internationalui_dialog_title_tip">Attention</string>
+    <string name="internationalui_goto_recharge">Top up</string>
+
+    <string name="internationalui_activate">Activate</string>
+    <string name="internationalui_advices">Suggestions</string>
+    <string name="internationalui_bug_report">Bug&#160;report</string>
+    <string name="internationalui_optimization">Optimization</string>
+
+    <string name="internationalui_tips_error_phone_number">Wrong phone number</string>
+
+    <!--feedback-->
+    <string name="internationalui_feedback_content_hint">Your feedback is very important to us ...</string>
+    <string name="internationalui_feedback_email">Email&#160;address</string>
+    <string name="internationalui_feedback_email_hint">Leave&#160;your&#160;email&#160;please</string>
+    <string name="internationalui_feedback_phone">Phone&#160;number</string>
+    <string name="internationalui_feedback_phone_hint">optional</string>
+    <string name="internationalui_feedback_putinbutton">SUBMIT</string>
+    <string name="internationalui_voip_brand">Feedback from TouchPal®Contacts support</string>
+
+    <!--braintree-->
+    <string name="internationalui_braintree_purchase_best_discount_head_title">Recharge</string>
+    <string name="internationalui_braintree_purchase_final_price">Final Price</string>
+    <string name="internationalui_braintree_purchase_price_save">Discount: %1$s %2$.2f</string>
+    <string name="internationalui_braintree_purchase_submit">Submit</string>
+    <string name="internationalui_braintree_purchase_order_loading">Creating the order...</string>
+    <string name="internationalui_braintree_purchase_checkout_success">Pay success</string>
+    <string name="internationalui_braintree_purchase_checkout_failed">Pay failure</string>
+    <string name="internationalui_braintree_purchase_checkout_canceled">The transaction has been cancelled</string>
+    <string name="internationalui_braintree_purchase_braintree_setup_failed">Braintree initialization failure</string>
+    <string name="internationalui_braintree_purchase_order_failed">Transaction failure</string>
+    <string name="internationalui_braintree_purchase_order_param_error">Missing order parameter</string>
+    <string name="internationalui_braintree_purchase_developer_error">Payment verification</string>
+    <string name="internationalui_braintree_purchase_server_error">Payment platform network error</string>
+    <string name="internationalui_braintree_purchase_server_unavailable">Payment platform maintenance</string>
+
+    <!--feedback-->
+    <string name="internationalui_feedback_title">Feedback</string>
+    <string name="internationalui_log_upload_success">success</string>
+    <string name="internationalui_feedback_noti1">Submit success, thank you for your feedback</string>
+    <string name="internationalui_feedback_noti2">Submit failure, please check network settings</string>
+    <string name="internationalui_feedback_noti3">Please enter your questions and feedback</string>
+    <string name="internationalui_feedback_noti4">It\'s limited by 1500 words, please check and submit again</string>
+    <string name="internationalui_feedback_noti5">Please correct your Email account</string>
+    <string name="internationalui_feedback_noti6">Please correct your phone number</string>
+    <string name="internationalui_feedback_tips_invalid_contact">Leave&#160;your&#160;Email&#160;or&#160;Mobile&#160;please</string>
+
+    <!--voip disconnect-->
+    <string name="internationalui_disconnect_error_accounterr">Account error</string>
+    <string name="internationalui_disconnect_error_accoutrepeat">Please redial later</string>
+    <string name="internationalui_disconnect_error_actionerr">Account abnormal, please contact us</string>
+    <string name="internationalui_disconnect_error_area">Unsupported area</string>
+    <string name="internationalui_disconnect_error_busy">Busy, redial later</string>
+    <string name="internationalui_disconnect_error_checknet">Check your network and redial please</string>
+    <string name="internationalui_disconnect_error_decline">Callee is offline</string>
+    <string name="internationalui_disconnect_error_locationerr">Fail to get location</string>
+    <string name="internationalui_disconnect_error_neterror">Check your network and redial</string>
+    <string name="internationalui_disconnect_error_nomoney">Credits ran out</string>
+    <string name="internationalui_disconnect_error_normalcall">Network error, please redial later</string>
+    <string name="internationalui_disconnect_error_nottpaccount">Can only dial TP Dialer user</string>
+    <string name="internationalui_disconnect_error_restart">Please restart your phone</string>
+    <string name="internationalui_disconnect_error_routeerr">Unsupported fixed number</string>
+    <string name="internationalui_disconnect_error_serverrestart">Connection exception, please reboot</string>
+    <string name="internationalui_disconnect_error_serverunknow">Server not found, please redial</string>
+    <string name="internationalui_disconnect_error_versionlow">Low version, please upgrade</string>
+    <string name="internationalui_disconnect_error_normal">Normal Clearing</string>
+    <string name="internationalui_disconnect_error_comment_busy">The number you dialed is busy now\n please redial later</string>
+    <string name="internationalui_disconnect_error_comment_no_answer">The subscriber you are dailing cannot be connected now</string>
+
+    <!--voip-->
+    <string name="internationalui_permission_noti_audio">Permission request: Microphone</string>
+    <string name="internationalui_voip_call_noti7">Caller and callee should not share the number</string>
+    <string name="internationalui_dialog_nevernotify">Never notify again</string>
+    <string name="internationalui_tips_use_country_calling_code">dial with %s</string>
+    <!--new-->
+    <string name="internationalui_voip_notification_incall">In Call(%s)</string>
+    <string name="internationalui_voip_notification_outgoing">Dialing…</string>
+    <string name="internationalui_voip_notification_incoming"><![CDATA[Call incoming, click & check]]></string>
+    <string name="internationalui_country_token_invalid_error">Invalid token</string>
+    <string name="internationalui_recharge_select_phonenumber">选择充值号码</string>
+    <string name="internationalui_retry">retry</string>
+
+    <string name="internationalui_stripe_money_lable">Total price</string>
+    <string name="internationalui_stripe_money">%s USD</string>
+    <string name="internationalui_stripe_totle_money">Need to pay the amount</string>
+    <string name="internationalui_stripe_title">Pay</string>
+    <string name="internationalui_stripe_card_number_lable">credit card number</string>
+    <string name="internationalui_stripe_card_number_hint">Please enter your card number</string>
+    <string name="internationalui_stripe_expire_date_lable">Expiry date</string>
+    <string name="internationalui_stripe_expire_date_hint">Please select a expiry date</string>
+    <string name="internationalui_stripe_card_cvc_lable">CVC</string>
+    <string name="internationalui_stripe_card_cvc_hint">Please enter the card after the back of the three digits</string>
+    <string name="internationalui_stripe_card_msg_error">Verification of information failed, please check whether the input information is correct</string>
+    <string name="internationalui_stripe_pay_loading_msg">Being paid,please wait</string>
+    <string name="internationalui_stripe_pay_btn_sure">confirm payment</string>
+    <string name="internationalui_charge_result_exception">Payment request exception, please check my points later</string>
+    <string name="internationalui_charge_create_token_exception">Failed to generate payment voucher</string>
+
+    <string name="internationalui_date_pick_format_year">%s</string>
+    <string name="internationalui_date_pick_format_month">%s</string>
+</resources>
