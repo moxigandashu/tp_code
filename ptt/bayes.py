@@ -90,7 +90,59 @@ def classifyNB(vec2classify,p1vec,p2vec,p3vec,p4vec,p5vec,p_ackfun,p_entertain,p
     class_tag=['ackfun', 'entertain', 'food', 'game', 'lucky']
     return class_tag[p_list.index(max(p_list))]
     #return p1,p2,p3,p4,p5                             
-    
+
+def all_test_train(trainSet,testSet):
+    #trainSet=list(range(n));testSet=[]
+    trainSet=trainSet+testSet
+    testSet=[]
+    n_len=shape(trainSet)[0]    
+    for i in range(int(n_len/2)):
+        randIndex=int(random.uniform(0,len(trainSet)))
+        testSet.append(trainSet[randIndex])
+        del(trainSet[randIndex])
+    trainSet_new=trainSet
+    testSet_new=testSet
+    popSet=[]
+    error_rate_te=[];error_rate_tr=[]
+    for i in range(8):
+        if i%2==0:
+            error_rate,testSet_new,pop_temp=over_test_drop(trainSet_new,testSet_new)
+            
+            if error_rate==0:break
+            popSet.extend(pop_temp)
+            error_rate_te.append(error_rate)
+        else:
+            error_rate,trainSet_new,pop_temp=over_test_drop(testSet_new,trainSet_new)
+            
+            if error_rate==0:break   
+            popSet.extend(pop_temp)         
+            error_rate_tr.append(error_rate)        
+    print('error_rate_te:',error_rate_te)
+    print('error_rate_tr:',error_rate_tr)
+    te= error_rate_te;tr=error_rate_tr
+    return te,tr,popSet,trainSet_new,testSet_new
+
+def over_test_drop(tA,tB):
+    tAMatrix=[];tAClasses=[]
+    tB_new=[];tB_pop=[]
+    for randIndex in tA:
+            tAMatrix.append(wordMatrix[randIndex])
+            tAClasses.append(classlist[randIndex])
+    p1vec,p2vec,p3vec,p4vec,p5vec,p_ackfun,p_entertain,p_food,p_game,p_lucky=trainNB(tAMatrix,tAClasses)
+    error_count=0
+    all_count=len(tB)
+    for randIndex in tB:
+        class_pre=classifyNB(wordMatrix[randIndex],p1vec,p2vec,p3vec,p4vec,p5vec,p_ackfun,p_entertain,p_food,p_game,p_lucky)
+        if class_pre!=classlist[randIndex]:
+            error_count+=1
+            print ('randIndex:',randIndex,'\t',class_pre,'\t',classlist[randIndex])
+            tB_pop.append(randIndex)
+        else:
+            tB_new.append(randIndex)
+    wrong_rate=error_count/all_count
+    print('wrong_rate',wrong_rate,'\n')
+    return   wrong_rate,tB_new,tB_pop
+                          
     
 
 if __name__=="__main__":
@@ -108,8 +160,30 @@ if __name__=="__main__":
         wordMatrix.append(word_list_vec(vocabset,word_list[i]))
     #class_tag=['ackfun', 'entertain', 'food', 'game', 'lucky']
     #分类与准确率
+
+    #删除分类错误的文章      
+    iteration=[]
+    for j in range(10):    
+        error_rate_A=[];error_rate_B=[];popSet=[]
+        trainSet=list(range(n));testSet=[]
+        for i in range(100):
+            a,b,p,trainSet,testSet=all_test_train(trainSet,testSet)
+            error_rate_A.append(a)
+            error_rate_B.append(b)
+            popSet.extend(p)
+            if not a and not b:
+                print('wrong rate is 0 at iteration %s'%(i+1))
+                iteration.append(i)
+                break
+                
+
+'''         
+#循环交叉测试     
+def test_main():
+    wrong_rate=[]
     sum_rate=0
-    for j in range(20):
+    for j in range(100):
+        print ('iteration %d begin \n \t\t class_pre \t class_list'%(j+1))
         trainSet=list(range(n));testSet=[]
         for i in range(200):
             randIndex=int(random.uniform(0,len(trainSet)))
@@ -124,26 +198,70 @@ if __name__=="__main__":
         #test  
         error_count=0
         for randIndex in testSet:
-            if classifyNB(wordMatrix[randIndex],p1vec,p2vec,p3vec,p4vec,p5vec,p_ackfun,p_entertain,p_food,p_game,p_lucky)!=classlist[randIndex]:
+            class_pre=classifyNB(wordMatrix[randIndex],p1vec,p2vec,p3vec,p4vec,p5vec,p_ackfun,p_entertain,p_food,p_game,p_lucky)
+            if class_pre!=classlist[randIndex]:
                 error_count+=1
-                #print ('wrong',randIndex,'\t',classifyNB(wordMatrix[randIndex],p1vec,p2vec,p3vec,p4vec,p5vec,p_ackfun,p_entertain,p_food,p_game,p_lucky),'\t',classlist[randIndex])
-        
+                print ('randIndex:',randIndex,'\t',classifyNB(wordMatrix[randIndex],p1vec,p2vec,p3vec,p4vec,p5vec,p_ackfun,p_entertain,p_food,p_game,p_lucky),'\t',classlist[randIndex])
+                classlist[randIndex]=class_pre                
         all_count=len(testSet)
-        print('wrong_rate',error_count/all_count)
+        print('wrong_rate',error_count/all_count,'\n')
         sum_rate+=error_count/all_count
-    ave_rate=sum_rate/20
-            
+        wrong_rate.append(error_count/all_count)
+    ave_rate=sum_rate/100
+    return ave_rate
+
+
+           
 #测试        
-def test_class(url):
+def test_class_url(url):
     test_title,test_text=class_craw.detail_parse3(url)
     test_text=stop_word_delete(stop_list,list(jieba_cut(test_text)))
     test_vec=word_list_vec(vocabset,test_text)
     class_output=classifyNB(test_vec,p1vec,p2vec,p3vec,p4vec,p5vec,p_ackfun,p_entertain,p_food,p_game,p_lucky)  
     print(class_output)
     
+
+def try1try():      
+    wrong_rate1=[]
+    wrong_rate2=[]
+    for j in range(10):
+        print ('iteration %d begin \n \t\t class_pre \t class_list'%(j+1))
+        trainSet=list(range(n));testSet=[]
+        for i in range(213):
+            randIndex=random.randint(0,len(trainSet))
+            testSet.append(trainSet[randIndex])
+            del(trainSet[randIndex])
+        wrong_rate1.append(over_test(trainSet,testSet))
+        wrong_rate2.append(over_test(testSet,trainSet))   
         
-      
-        
-        
+    print('ave_rate1:',average(wrong_rate1))
+    print('ave_rate2:',average(wrong_rate2))
     
+
+def over_test(tA,tB):
+    tAMatrix=[];tAClasses=[]
+    for randIndex in tA:
+            tAMatrix.append(wordMatrix[randIndex])
+            tAClasses.append(classlist[randIndex])
+    p1vec,p2vec,p3vec,p4vec,p5vec,p_ackfun,p_entertain,p_food,p_game,p_lucky=trainNB(tAMatrix,tAClasses)
+    error_count=0
+    all_count=len(tB)
+    for randIndex in tB:
+        class_pre=classifyNB(wordMatrix[randIndex],p1vec,p2vec,p3vec,p4vec,p5vec,p_ackfun,p_entertain,p_food,p_game,p_lucky)
+        if class_pre!=classlist[randIndex]:
+            error_count+=1
+            print ('randIndex:',randIndex,'\t',class_pre,'\t',classlist[randIndex])
+    wrong_rate=error_count/all_count
+    print('wrong_rate',wrong_rate,'\n')
+    return   wrong_rate      
     
+ def test_rand_fun(testSet):
+    a=0;b=0;c=0;d=0;e=0
+    for i in testSet:
+        if classlist[i]=='ackfun':a+=1
+        elif classlist[i]=='entertain':b+=1
+        elif classlist[i]=='food':c+=1
+        elif classlist[i]=='game':d+=1
+        elif classlist[i]=='lucky':e+=1
+    print('a:%s,b:%s,c:%s,d:%s,e:%s'%(a,b,c,d,e))
+'''    
