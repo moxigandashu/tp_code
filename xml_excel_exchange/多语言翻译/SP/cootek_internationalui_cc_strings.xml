@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!--通话-->
+<string name="internationalui_call_process_country_china">China</string>
+<string name="internationalui_call_process_calling">llamando</string>
+<string name="internationalui_call_process_record">récord</string>
+<string name="internationalui_call_process_redial">rellamar</string>
+<string name="internationalui_call_process_recharge">recargar</string>
+<string name="internationalui_call_process_mute">mudo</string>
+<string name="internationalui_call_process_speaker">marcador</string>
+<!--通话结束-->
+<string name="internationalui_disconnect_close">apagado</string>
+<string name="internationalui_disconnect_redial">rellamar</string>
+<!--登录-->
+<string name="internationalui_login_head_title">crear cuenta</string>
+<string name="internationalui_country_input_hint">país</string>
+<string name="internationalui_country_code_input_hint">código</string>
+<string name="internationalui_phone_input_hint">ingresar tu número</string>
+<string name="internationalui_validation_code_input_hint">ingresar el código de verificación</string>
+<string name="internationalui_validation_code_query_hint">verificar el número</string>
+<string name="internationalui_validation_code_requery">reenviar</string>
+<string name="internationalui_validation_code_countdown">segundos</string>
+<string name="internationalui_network_unavailable">no hay conección con internet</string>
+<string name="internationalui_loading_text">cargando</string>
+<string name="internationalui_verification_over_limit">fuera de limitación-solo tres códigos de verificación al día</string>
+<string name="internationalui_verification_phone_format_error">formato de número incorrecto</string>
+<string name="internationalui_verification_phone_number_error">número incorrecto</string>
+<string name="internationalui_verification_phone_input_invalid_error">número inválido</string>
+<string name="internationalui_verification_send_ok">enviado </string>
+<string name="internationalui_login_verification_expired">código de verificación expirado</string>
+<string name="internationalui_login_code_input_insuffient">favor de proveer contrase_a o código de verificación</string>
+<string name="internationalui_login_data_not_found">no existe el usuario</string>
+<string name="internationalui_login_authorize_fail">código de verificación falso</string>
+<string name="internationalui_login_no_permission">permiso rechazado</string>
+<string name="internationalui_network_other">error en la solicitud de red</string>
+<string name="internationalui_number_invalid_hint">favor de revisar tu número </string>
+<string name="internationalui_login_page_start_hint">iniciar sesión</string>
+<string name="internationalui_logout">cerrar sesión</string>
+<!--备注"internationalui_captcha_message_template"勿改，为英文短信固定格式检测-->
+<string name="internationalui_captcha_message_template">tu código de verificación</string>
+<string name="internationalui_login_country_code_dialog_title">atención</string>
+<string name="internationalui_login_country_code_dialog_message">favor de seleccionar el código de país</string>
+<string name="internationalui_login_country_code_dialog_ok">sí</string>
+<!--选择国家区号-->
+<string name="internationalui_select_country_head_title">seleccionar tu país</string>
+<string name="internationalui_country_search_hint">buscar</string>
+<string name="internationalui_country_search_nothing_found">perdón, no se encuentra nada</string>
+<!--个人中心-->
+<string name="internationalui_personal_center_head_title">mi información</string>
+<string name="internationalui_personal_center_slogan">iniciar sesión y disfrutar la llamada</string>
+<string name="internationalui_call_rates">tarifa de llamada</string>
+<string name="internationalui_invite_friends">invitar amigos</string>
+<string name="internationalui_international_free_call">hacer una llamada ahora</string>
+<string name="internationalui_personal_center_credits">mis créditos</string>
+<string name="internationalui_personal_center_recharge">completar</string>
+<string name="internationalui_personal_center_recharge_title">recargar</string>
+<string name="internationalui_personal_center_cloud_roaming">vagar en la nube</string>
+<string name="internationalui_personal_center_check_update_app">versión</string>
+<string name="internationalui_personal_center_feedback">realimentación</string>
+<!--资费列表-->
+<string name="internationalui_call_rate_head_title">tarifa de llamada</string>
+<string name="internationalui_call_rate_search_hint">favor de escribir país y código</string>
+<string name="internationalui_call_rate_column_code">código</string>
+<string name="internationalui_call_rate_column_country">países y regiones</string>
+<string name="internationalui_call_rate_column_credit_per_minute">créditos/Min</string>
+<string name="internationalui_call_msg_warning_country_code">favor de revisar el código de país para el celular</string>
+<string name="internationalui_call_msg_choose_country">seleccionar país</string>
+<!--扣费列表-->
+<string name="internationalui_cost_list_head_title">detalle de costo</string>
+<string name="internationalui_cost_list_my_credits_text">mis créditos</string>
+<string name="internationalui_cost_list_recharge_history_title">historia de recarga</string>
+<string name="internationalui_cost_list_cost_history_title">historia de costo</string>
+<string name="internationalui_cost_list_no_history">no hay récord</string>
+<string name="internationalui_cost_list_recharge_order">pedido</string>
+<string name="internationalui_cost_list_cloud_roaming_purchase_order">pedido de vagar por la nube</string>
+<string name="internationalui_cost_list_loading_more_date"></string>
+<string name="internationalui_cost_list_loading_no_more_date">no hay más datos</string>
+<!--公司品牌声明-->
+<string name="internationalui_international_brand_delare_title">servicio proporcionado por Touchpal. Derecho reservado</string>
+<string name="internationalui_feedback_putinbutton_log_only">SOLO PARA ENVIAR LOG</string>
+<!-- update -->
+<string name="internationalui_dlg_standard_title">notificación</string>
+<string name="internationalui_pro_apk_mandatory_update">Nueva versión lista, hay que modernizar para continuar</string>
+<string name="internationalui_pref_software_version">versión de software</string>
+<string name="internationalui_pref_update_software_title">actualización de software</string>
+<string name="internationalui_update_uptodate">revisar las actualizaciones</string>
+<string name="internationalui_update_title">nueva versión  </string>
+<string name="internationalui_update_checking">revisando actualizaciones</string>
+<string name="internationalui_update_no_network">no hay conección con internet</string>
+<string name="internationalui_update_ongoing">actualizando en el fondo</string>
+<string name="internationalui_update_dialog_btn_text_update_now">actualizar ahora</string>
+<string name="internationalui_update_dialog_btn_text_install_now">instalar ahora</string>
+<string name="internationalui_update_dialog_btn_text_later">más tarde</string>
+<string name="internationalui_download_app_failed_no_space">error en dascargar por insuficiencia de espacio</string>
+<string name="internationalui_download_app_in_progress">descargando nueva versión</string>
+<string name="internationalui_download_app_in_progress2">descargando</string>
+<string name="internationalui_download_app_failed">descarga fallada, favor de revisar internet</string>
+<string name="internationalui_download_app_success">éxito en descarga</string>
+<string name="internationalui_download_app_background">actualizar gratis</string>
+<string name="internationalui_download_app_background_normal">descarga normal</string>
+<string name="internationalui_download_app_background_high_speed">descarga a alta velocidad</string>
+<string name="internationalui_download_app_percentage">porcentaje de descarga</string>
+<string name="internationalui_download_app_percentage2">porcentaje %s de descarga</string>
+<string name="internationalui_presentation_update">actualizar log</string>
+<string name="internationalui_presentation_ing">haciendo </string>
+<string name="internationalui_dialog_logout_msg">seguro que quieres cerrar sesión</string>
+<string name="internationalui_dialog_btn_msg_sure">sí</string>
+<string name="internationalui_dialog_btn_msg_cancel">no</string>
+<string name="internationalui_dialog_title_msg">atención</string>
+<!--登录-用户协议-->
+<string name="internationalui_service_policy_area_agree_text">para usar TP Diales, favor de leer y seguir</string>
+<string name="internationalui_service_policy_area_and_text">y</string>
+<string name="internationalui_service_policy_area_privicy_policy_text">política de privacidad</string>
+<string name="internationalui_service_policy_area_terms_of_service_text">acuerdo de usuario</string>
+<string name="internationalui_service_policy_head_title">término de servicio</string>
+<string name="internationalui_dialog_title_tip">atención</string>
+<string name="internationalui_goto_recharge">recargar</string>
+<string name="internationalui_activate">activar</string>
+<string name="internationalui_advices">consejos</string>
+<string name="internationalui_bug_report">reporte de bug</string>
+<string name="internationalui_optimization">optimización</string>
+<string name="internationalui_tips_error_phone_number">número error</string>
+<!--feedback-->
+<string name="internationalui_feedback_content_hint">tu realimentación es muy importante para nosotros</string>
+<string name="internationalui_feedback_email">correo electrónico</string>
+<string name="internationalui_feedback_email_hint">favor de dejar tu correo</string>
+<string name="internationalui_feedback_phone">número de teléfono</string>
+<string name="internationalui_feedback_phone_hint">opcional</string>
+<string name="internationalui_feedback_putinbutton">enviar</string>
+<string name="internationalui_voip_brand">realimentación del soporte de contactos Touchpal</string>
+<!--braintree-->
+<string name="internationalui_braintree_purchase_best_discount_head_title">recargar</string>
+<string name="internationalui_braintree_purchase_final_price">precio final</string>
+<string name="internationalui_braintree_purchase_price_save">descuento</string>
+<string name="internationalui_braintree_purchase_submit">enviar</string>
+<string name="internationalui_braintree_purchase_order_loading">crear pedido</string>
+<string name="internationalui_braintree_purchase_checkout_success">pagado</string>
+<string name="internationalui_braintree_purchase_checkout_failed">pagar fallado</string>
+<string name="internationalui_braintree_purchase_checkout_canceled">tansacción cancelada</string>
+<string name="internationalui_braintree_purchase_braintree_setup_failed">iniciación de plataforma de pago fallada</string>
+<string name="internationalui_braintree_purchase_order_failed">tansacción fallada</string>
+<string name="internationalui_braintree_purchase_order_param_error">parámetro de pedido perdido</string>
+<string name="internationalui_braintree_purchase_developer_error">verificación de pago</string>
+<string name="internationalui_braintree_purchase_server_error">error en el internet de plataforma de pago</string>
+<string name="internationalui_braintree_purchase_server_unavailable">mantenimiento de plataforma de pago</string>
+<!--feedback-->
+<string name="internationalui_feedback_title">realimentación</string>
+<string name="internationalui_log_upload_success">éxito  </string>
+<string name="internationalui_feedback_noti1">éxito en enviar, gracias por tu realimentación</string>
+<string name="internationalui_feedback_noti2">fallado en enviar, favor de revisar tu internet</string>
+<string name="internationalui_feedback_noti3">favor de escribir tu pregunta y realimentación</string>
+<string name="internationalui_feedback_noti4">límite de 1500 palabras, favor de revisar y reenviar</string>
+<string name="internationalui_feedback_noti5">favor de corregir tu cuenta de Email</string>
+<string name="internationalui_feedback_noti6">favor de corregir tu número</string>
+<string name="internationalui_feedback_tips_invalid_contact">favor de dejar tu correo o número</string>
+<!--voip disconnect-->
+<string name="internationalui_disconnect_error_accounterr">error de cuenta</string>
+<string name="internationalui_disconnect_error_accoutrepeat">favor de remarcar</string>
+<string name="internationalui_disconnect_error_actionerr">cuenta anormal, favor de contactarnos</string>
+<string name="internationalui_disconnect_error_area">área fuera de cubrimiento</string>
+<string name="internationalui_disconnect_error_busy">ocupado, remarca después</string>
+<string name="internationalui_disconnect_error_checknet">revisar tu internet y remarca después</string>
+<string name="internationalui_disconnect_error_decline">usuario desconectado</string>
+<string name="internationalui_disconnect_error_locationerr">fallado en tener tu ubicación</string>
+<string name="internationalui_disconnect_error_neterror">revisar tu internet y remarca después</string>
+<string name="internationalui_disconnect_error_nomoney">créditos acabados</string>
+<string name="internationalui_disconnect_error_normalcall">error en internet, favor de remarcar después</string>
+<string name="internationalui_disconnect_error_nottpaccount">solo puede llamar TP Dialer</string>
+<string name="internationalui_disconnect_error_restart">favor de reiniciar tu celular</string>
+<string name="internationalui_disconnect_error_routeerr">número fijo fuera de cubrimiento</string>
+<string name="internationalui_disconnect_error_serverrestart">conección fallada, favor de reiniciar </string>
+<string name="internationalui_disconnect_error_serverunknow">servidor no encontrado, favor de remarcar</string>
+<string name="internationalui_disconnect_error_versionlow">versión baja, favor de actualizar</string>
+<string name="internationalui_disconnect_error_normal">término de llamada</string>
+<string name="internationalui_disconnect_error_comment_busy">el número que marcas es ocupado, favor de remarcar</string>
+<string name="internationalui_disconnect_error_comment_no_answer">el número que marcas no se puede conectar</string>
+<!--voip-->
+<string name="internationalui_permission_noti_audio">solicitud de permiso: micrófono</string>
+<string name="internationalui_voip_call_noti7">llamador y llamado deben tener número distinto</string>
+<string name="internationalui_dialog_nevernotify">no notifica más</string>
+<string name="internationalui_tips_use_country_calling_code">llamar</string>
+<!--new-->
+<string name="internationalui_voip_notification_incall">llamando</string>
+<string name="internationalui_voip_notification_outgoing">marcando</string>
+<string name="internationalui_voip_notification_incoming">llamada entrando, clic y véalo</string>
+<string name="internationalui_country_token_invalid_error">token inválido</string>
+<string name="internationalui_recharge_select_phonenumber">seleccionar el número de recarga</string>
+<string name="internationalui_retry">reintentar</string>
+<string name="internationalui_stripe_money_lable">precio en total</string>
+<string name="internationalui_stripe_money">USD</string>
+<string name="internationalui_stripe_totle_money">se necesita pagar por el monte</string>
+<string name="internationalui_stripe_title">pagar  </string>
+<string name="internationalui_stripe_card_number_lable">número de tarjeta de crédito</string>
+<string name="internationalui_stripe_card_number_hint">favor de ingresar tu número de tarjeta de crédito</string>
+<string name="internationalui_stripe_expire_date_lable">fecha de expiración</string>
+<string name="internationalui_stripe_expire_date_hint">favor de seleccionar la fecha de expiración</string>
+<string name="internationalui_stripe_card_cvc_lable">CVC</string>
+<string name="internationalui_stripe_card_cvc_hint">favor de ingresar los tres números en la vuelta de la tarjeta</string>
+<string name="internationalui_stripe_card_msg_error">fallada en la verificación de información, favor de revisar si la información ingresada es correcta.</string>
+<string name="internationalui_stripe_pay_loading_msg">pagando, favor de esperar</string>
+<string name="internationalui_stripe_pay_btn_sure">pago confirmado</string>
+<string name="internationalui_charge_result_exception">error en solicitud de pago, favor de revisar mis puntos después</string>
+<string name="internationalui_charge_create_token_exception">fallado en generar el cupón de pago</string>
+<string name="internationalui_date_pick_format_year">%s</string>
+<string name="internationalui_date_pick_format_month">%s</string>
+</resources>

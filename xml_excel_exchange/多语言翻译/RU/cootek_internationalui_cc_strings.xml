@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!--通话-->
+<string name="internationalui_call_process_country_china">Китай</string>
+<string name="internationalui_call_process_calling">позвонить</string>
+<string name="internationalui_call_process_record">записать звук</string>
+<string name="internationalui_call_process_redial">Обратный звонок</string>
+<string name="internationalui_call_process_recharge">пополнить счет</string>
+<string name="internationalui_call_process_mute">закрыть звук</string>
+<string name="internationalui_call_process_speaker">динамик</string>
+<!--通话结束-->
+<string name="internationalui_disconnect_close">закрыть</string>
+<string name="internationalui_disconnect_redial">перезвонить</string>
+<!--登录-->
+<string name="internationalui_login_head_title">регистрация</string>
+<string name="internationalui_country_input_hint">страна</string>
+<string name="internationalui_country_code_input_hint">код региона</string>
+<string name="internationalui_phone_input_hint">заполните ваш номер телефона</string>
+<string name="internationalui_validation_code_input_hint">введите код подтверждения</string>
+<string name="internationalui_validation_code_query_hint">получить код подтверждения</string>
+<string name="internationalui_validation_code_requery">отправить еще раз</string>
+<string name="internationalui_validation_code_countdown">%d секунда</string>
+<string name="internationalui_network_unavailable">сетевой кабель не подключен</string>
+<string name="internationalui_loading_text">загрузка</string>
+<string name="internationalui_verification_over_limit">числа отправления проверочного кода превысили лимит</string>
+<string name="internationalui_verification_phone_format_error">неправильный формат номера телефона</string>
+<string name="internationalui_verification_phone_number_error">неправильный номер телефона</string>
+<string name="internationalui_verification_phone_input_invalid_error">номер телефона недействителен</string>
+<string name="internationalui_verification_send_ok">Запрос на получение проверочного кода успешно отправлен!</string>
+<string name="internationalui_login_verification_expired">Срок действия кода подтверждения истек</string>
+<string name="internationalui_login_code_input_insuffient">Введите пароль или код подтверждения</string>
+<string name="internationalui_login_data_not_found">Учетная запись не существует</string>
+<string name="internationalui_login_authorize_fail">неправильный код подтверждения</string>
+<string name="internationalui_login_no_permission">недостаточно прав </string>
+<string name="internationalui_network_other">запрос сети ненормален</string>
+<string name="internationalui_number_invalid_hint">Введите правильный номер телефона</string>
+<string name="internationalui_login_page_start_hint">войти</string>
+<string name="internationalui_logout">выйти</string>
+<!--备注"internationalui_captcha_message_template"勿改，为英文短信固定格式检测-->
+<string name="internationalui_captcha_message_template">nan</string>
+<string name="internationalui_login_country_code_dialog_title">внимание! </string>
+<string name="internationalui_login_country_code_dialog_message">выберите код региона</string>
+<string name="internationalui_login_country_code_dialog_ok">готово</string>
+<!--选择国家区号-->
+<string name="internationalui_select_country_head_title">выберите вашу страну</string>
+<string name="internationalui_country_search_hint">искать код страны</string>
+<string name="internationalui_country_search_nothing_found">к сожелению, не найдено</string>
+<!--个人中心-->
+<string name="internationalui_personal_center_head_title">профиль</string>
+<string name="internationalui_personal_center_slogan">Войти &amp; сейчас позвоните бесплатно со своим друзьями!</string>
+<string name="internationalui_call_rates">Стоимость звонка</string>
+<string name="internationalui_invite_friends">Пригласить друзей</string>
+<string name="internationalui_international_free_call">Сейчас попробуйте позвонить </string>
+<string name="internationalui_personal_center_credits">Мои баллы</string>
+<string name="internationalui_personal_center_recharge">Пополнить баллы</string>
+<string name="internationalui_personal_center_recharge_title">Пополнить </string>
+<string name="internationalui_personal_center_cloud_roaming">Облачный сервис</string>
+<string name="internationalui_personal_center_check_update_app">версия</string>
+<string name="internationalui_personal_center_feedback">обратная связь</string>
+<!--资费列表-->
+<string name="internationalui_call_rate_head_title">Стоимость звонка</string>
+<string name="internationalui_call_rate_search_hint">Введите название страны или код региона</string>
+<string name="internationalui_call_rate_column_code">код страны</string>
+<string name="internationalui_call_rate_column_country">страны и регионы</string>
+<string name="internationalui_call_rate_column_credit_per_minute">балл / минута</string>
+<string name="internationalui_call_msg_warning_country_code">Подтвердите, что ваш номер содержит код региона</string>
+<string name="internationalui_call_msg_choose_country">Выберите код региона</string>
+<!--扣费列表-->
+<string name="internationalui_cost_list_head_title">Детали вычеты</string>
+<string name="internationalui_cost_list_my_credits_text">Мои баллы</string>
+<string name="internationalui_cost_list_recharge_history_title">Запись пополнения</string>
+<string name="internationalui_cost_list_cost_history_title">Запись вычеты</string>
+<string name="internationalui_cost_list_no_history">Нет истории</string>
+<string name="internationalui_cost_list_recharge_order">заказ</string>
+<string name="internationalui_cost_list_cloud_roaming_purchase_order">Заказ облачного сервиса</string>
+<string name="internationalui_cost_list_loading_more_date">...</string>
+<string name="internationalui_cost_list_loading_no_more_date">Больше исторических данных нет</string>
+<!--公司品牌声明-->
+<string name="internationalui_international_brand_delare_title">Эта услуга предоставляется Touchpal</string>
+<string name="internationalui_feedback_putinbutton_log_only">Только загрузить информации приложения</string>
+<!-- update -->
+<string name="internationalui_dlg_standard_title">подсказка</string>
+<string name="internationalui_pro_apk_mandatory_update">TP dialer полностью оптимизирован, и вам необходимо перейти на новую версию чтобы продолжить использовать ее </string>
+<string name="internationalui_pref_software_version">Версия программного обеспечения</string>
+<string name="internationalui_pref_update_software_title">Обновление программного обеспечения</string>
+<string name="internationalui_update_uptodate">Проверить новую версию</string>
+<string name="internationalui_update_title">Найдена новая версия</string>
+<string name="internationalui_update_checking">Поиск обновлений</string>
+<string name="internationalui_update_no_network">Не удалось подключиться к сети</string>
+<string name="internationalui_update_ongoing">обновляет программу в фоне</string>
+<string name="internationalui_update_dialog_btn_text_update_now">Обновить сейчас</string>
+<string name="internationalui_update_dialog_btn_text_install_now">Установить сейчас</string>
+<string name="internationalui_update_dialog_btn_text_later">напомите мне позже</string>
+<string name="internationalui_download_app_failed_no_space">Недостаточно места для загрузки</string>
+<string name="internationalui_download_app_in_progress">Новая версия приложения загружается ...</string>
+<string name="internationalui_download_app_in_progress2">Загрузка приложения：%s</string>
+<string name="internationalui_download_app_failed">Не удалось загрузить.Подключите к сети и попропуйте еще раз, </string>
+<string name="internationalui_download_app_success">Приложение загружено успешно</string>
+<string name="internationalui_download_app_background">Бесплатное обновление</string>
+<string name="internationalui_download_app_background_normal">Обычная загрузка</string>
+<string name="internationalui_download_app_background_high_speed">Высокоскоростная загрузка</string>
+<string name="internationalui_download_app_percentage">Загрузить приложение</string>
+<string name="internationalui_download_app_percentage2">скачать%s: </string>
+<string name="internationalui_presentation_update">Обновить информации приложения</string>
+<string name="internationalui_presentation_ing">подключение...</string>
+<string name="internationalui_dialog_logout_msg">Вы действительно хотите выйти из системы?</string>
+<string name="internationalui_dialog_btn_msg_sure">Готово</string>
+<string name="internationalui_dialog_btn_msg_cancel">Отменить</string>
+<string name="internationalui_dialog_title_msg">внимание! </string>
+<!--登录-用户协议-->
+<string name="internationalui_service_policy_area_agree_text">Чтобы использовать TP Dialer, прочитайте и следуйте</string>
+<string name="internationalui_service_policy_area_and_text">и</string>
+<string name="internationalui_service_policy_area_privicy_policy_text">Политика конфиденциальности</string>
+<string name="internationalui_service_policy_area_terms_of_service_text">Пользовательское соглашение</string>
+<string name="internationalui_service_policy_head_title">Условия обслуживания</string>
+<string name="internationalui_dialog_title_tip">подсказка из Touchpal</string>
+<string name="internationalui_goto_recharge">Пополнить</string>
+<string name="internationalui_activate">Активировать аккаунт</string>
+<string name="internationalui_advices">Предложения и пожелания</string>
+<string name="internationalui_bug_report">обратная связь</string>
+<string name="internationalui_optimization">Оптимизация и улучшение</string>
+<string name="internationalui_tips_error_phone_number">Неправильный формат номера</string>
+<!--feedback-->
+<string name="internationalui_feedback_content_hint">Нам очень важна ваша обратная связь,и мы будем внимательно слушать.......</string>
+<string name="internationalui_feedback_email">Адрес электронной почты</string>
+<string name="internationalui_feedback_email_hint">Электронная почта</string>
+<string name="internationalui_feedback_phone">Номер телефона</string>
+<string name="internationalui_feedback_phone_hint">Номер телефона (необязательно)</string>
+<string name="internationalui_feedback_putinbutton">Отправить</string>
+<string name="internationalui_voip_brand">Обратная связь предоставляется Touchpal</string>
+<!--braintree-->
+<string name="internationalui_braintree_purchase_best_discount_head_title">Пополнить со скидкой</string>
+<string name="internationalui_braintree_purchase_final_price">Сумма</string>
+<string name="internationalui_braintree_purchase_price_save">сумма экономии : %1$s %2$.2f</string>
+<string name="internationalui_braintree_purchase_submit">Подтвердить заказ</string>
+<string name="internationalui_braintree_purchase_order_loading">Создается заказ ...</string>
+<string name="internationalui_braintree_purchase_checkout_success">Успешная оплата</string>
+<string name="internationalui_braintree_purchase_checkout_failed">Не удалось выполнить платеж</string>
+<string name="internationalui_braintree_purchase_checkout_canceled">Заказ отменен</string>
+<string name="internationalui_braintree_purchase_braintree_setup_failed">Не удалось инициализировать платежную платформу</string>
+<string name="internationalui_braintree_purchase_order_failed">Не удалось завершить покупку</string>
+<string name="internationalui_braintree_purchase_order_param_error">Отсутствуют параметры заказа</string>
+<string name="internationalui_braintree_purchase_developer_error">Сертификация платежа</string>
+<string name="internationalui_braintree_purchase_server_error">Ошибка в шлюзе платежной платформы</string>
+<string name="internationalui_braintree_purchase_server_unavailable">Платежная платформа проходит техническое обслуживание</string>
+<!--feedback-->
+<string name="internationalui_feedback_title">обратная связь</string>
+<string name="internationalui_log_upload_success">информации приложения загружено успешно</string>
+<string name="internationalui_feedback_noti1">Отправить успешно, спасибо за вашу обратную связь</string>
+<string name="internationalui_feedback_noti2">Отправить не удалось, сеть ненормальна, проверьте сетевые настройки</string>
+<string name="internationalui_feedback_noti3">Введите свой вопрос и отзыв</string>
+<string name="internationalui_feedback_noti4">Вы превысили лимит на 1500 слов.Пожалуйста,измените и отправьте.</string>
+<string name="internationalui_feedback_noti5">Введите правильную электронную почту</string>
+<string name="internationalui_feedback_noti6">Введите правильный номер телефона</string>
+<string name="internationalui_feedback_tips_invalid_contact">Введите адрес электронной почты или номер телефона</string>
+<!--voip disconnect-->
+<string name="internationalui_disconnect_error_accounterr">Аномальный счет.Пожалуйста,позвоните через 24 часа</string>
+<string name="internationalui_disconnect_error_accoutrepeat">Аномальная учетная запись.Пожалуйста,не наберите номеры повторно.</string>
+<string name="internationalui_disconnect_error_actionerr">Незаконная операция.Больше не можете звонить бесплатно</string>
+<string name="internationalui_disconnect_error_area">Бесплатные звонки пока не поддерживаются в этой область</string>
+<string name="internationalui_disconnect_error_busy">Линия занята, пожалуйста, позвоните позже</string>
+<string name="internationalui_disconnect_error_checknet">Проверьте сеть или перезвоните</string>
+<string name="internationalui_disconnect_error_decline">Он/Она не в сети.Бесплатные звонки пока не поддерживают</string>
+<string name="internationalui_disconnect_error_locationerr">Не удалось разместить</string>
+<string name="internationalui_disconnect_error_neterror">сетевой кабель не подключен, проверьте сеть и наберите еще раз</string>
+<string name="internationalui_disconnect_error_nomoney">Баллы закончилась</string>
+<string name="internationalui_disconnect_error_normalcall">запрос сети ненормален,измените обычный телефон или позвоните ему/ей позже</string>
+<string name="internationalui_disconnect_error_nottpaccount">Только пользователь TouchPal может позвонить</string>
+<string name="internationalui_disconnect_error_restart">Перезагрузите телефон</string>
+<string name="internationalui_disconnect_error_routeerr">Проблемы с линией,этой стационарный телефон пока не предоставляется </string>
+<string name="internationalui_disconnect_error_serverrestart">Проблемы с серверами, перезагрузите телефонную </string>
+<string name="internationalui_disconnect_error_serverunknow">Сервер не найден, перезвоните</string>
+<string name="internationalui_disconnect_error_versionlow">Текущая версия слишком низкая, обновите приложение</string>
+<string name="internationalui_disconnect_error_normal">Вызов завершен</string>
+<string name="internationalui_disconnect_error_comment_busy">Он/Она занят(-а).Сейчас не може ответить</string>
+<string name="internationalui_disconnect_error_comment_no_answer">Нет ответа </string>
+<!--voip-->
+<string name="internationalui_permission_noti_audio">предоставьте TP Dialer право использования микрофона</string>
+<string name="internationalui_voip_call_noti7">одинаковый номер входящего и выходящего вызова пока не поддерживается </string>
+<string name="internationalui_dialog_nevernotify">Больше не напомните мне</string>
+<string name="internationalui_tips_use_country_calling_code">позвонить</string>
+<!--new-->
+<string name="internationalui_voip_notification_incall">Исходящий</string>
+<string name="internationalui_voip_notification_outgoing">вызов....</string>
+<string name="internationalui_voip_notification_incoming">У вас звонок,нажмите и посмотрите</string>
+<string name="internationalui_country_token_invalid_error">Недопустимый token</string>
+<string name="internationalui_recharge_select_phonenumber">Выберите номер пополнения</string>
+<string name="internationalui_retry">retry</string>
+<string name="internationalui_stripe_money_lable">Сумма</string>
+<string name="internationalui_stripe_money">%s USD</string>
+<string name="internationalui_stripe_totle_money">Итого к оплате</string>
+<string name="internationalui_stripe_title">оплатить</string>
+<string name="internationalui_stripe_card_number_lable">Номер кредитной карты</string>
+<string name="internationalui_stripe_card_number_hint">Введите номер кредитной карты</string>
+<string name="internationalui_stripe_expire_date_lable">Дата истечения срока действия карты</string>
+<string name="internationalui_stripe_expire_date_hint">Выберите дату истечения срока действия карты</string>
+<string name="internationalui_stripe_card_cvc_lable">CVC</string>
+<string name="internationalui_stripe_card_cvc_hint">Введите последние три цифры на обороте карты</string>
+<string name="internationalui_stripe_card_msg_error">Не удалось проверить информации.Пожалуйста, проверьте их правильность еще раз.</string>
+<string name="internationalui_stripe_pay_loading_msg">Оплата проходит.Подождите,пожалуйста.</string>
+<string name="internationalui_stripe_pay_btn_sure">платеж подтверждаю</string>
+<string name="internationalui_charge_result_exception">Запрос на платежа ненормален.Проверьте мои баллы позже.</string>
+<string name="internationalui_charge_create_token_exception">Не удалось создать платежный документ</string>
+<string name="internationalui_date_pick_format_year">%sгод</string>
+<string name="internationalui_date_pick_format_month">%sмесяц</string>
+</resources>

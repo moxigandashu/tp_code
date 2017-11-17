@@ -1,0 +1,34 @@
+code_str,name_str,sp
+keyboard_mode_qwert,qwerty,qwerty
+keyboard_mode_num,123,123
+keyboard_copy,paste,copiar
+internayional_splash_thrd_desc,Dial more & Save more money,"lo m¨¢s que marca, lo m¨¢s barato que sea"
+internayional_splash_sec_desc,"Wherever you go, Wherever we call","donde vayas, donde llamamos"
+internayional_splash_firt_desc,Stable quality of voice,estabilidad de la calidad de la voz
+internayional_splash_thrd_title,Call global wisely,llamada global inteligente
+internayional_splash_sec_title,Call all over the world,llamar por todo el mundo
+internayional_splash_firt_title,"Clear, Stable, Smooth","claro, estable, suave"
+splash_skip,Skip,saltar
+splash_login,TRY IT NOW,int¨¦ntalo
+conact_detail_edit,Edit,editar
+super_search_hint,Search,buscar
+dialer_dialog_cancel,Cancel,cancelar
+dialer_dialog_ensure,Sure,asegurar
+dialer_dialog_call_forward,Calling Back to,llamar a
+internation_best_discount,Great Discount,gran descuento
+international_profile,Profile,perfil
+international_conacts,Contacts,contactos
+dialer_call_record,Call Records,r¨¦cord de llamada
+international_dialer,Dialer,marcador
+contacts_no_permission,Or check the system permission,o revisar el permiso del sistema
+contacts_no_empty,No contacts found,no se encuentra contacto
+calllog_no_empty,No call records found,no se encuentra r¨¦cord de llamada
+permission_noti_contacts,Permission request:  Contacts,solicitud de permiso: contactos
+permission_noti_phone,Permission request:  Phone,solicitud de permiso: n¨²mero 
+contacts_add_fail,Failed to add a contact,fallado en a_adir contacto
+contacts_edit_fail,Edit contact failed,fallado en editar contacto
+phonepad_copy_none,No content to paste,no hay nada para pegar
+voip_sign_with_mobile,Sign in with mobile,registrarse por celular
+voip_login_with_twitter,Sign in with Twitter,registrarse por Twitter
+voip_login_with_facebook,Sign in with Facebook,registrarse por Facebook
+voip_login_with_google,Sign in with Google,registrarse por Google

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--通话-->
+    <string name="internationalui_call_process_country_china">จีน</string>
+    <string name="internationalui_call_process_calling">โทร</string>
+    <string name="internationalui_call_process_record">คอร์ด</string>
+    <string name="internationalui_call_process_redial">โทรซ้ำ</string>
+    <string name="internationalui_call_process_recharge">กลม</string>
+    <string name="internationalui_call_process_mute">ปิดเสียง</string>
+    <string name="internationalui_call_process_speaker">ลำโพง</string>
+
+    <!--通话结束-->
+    <string name="internationalui_disconnect_close">ปิด</string>
+    <string name="internationalui_disconnect_redial">โทรซ้ำ</string>
+
+    <!--登录-->
+    <string name="internationalui_login_head_title">สร้างบัญชี</string>
+    <string name="internationalui_country_input_hint">ประเทศ</string>
+    <string name="internationalui_country_code_input_hint">รหัส</string>
+    <string name="internationalui_phone_input_hint">ป้อนหมายเลขโทรศัพท์</string>
+    <string name="internationalui_validation_code_input_hint">ป้อนรหัสยืนยัน</string>
+    <string name="internationalui_validation_code_query_hint">ตรวจสอบหมายเลขโทรศัพท์</string>
+    <string name="internationalui_validation_code_requery">ส่ง</string>
+    <string name="internationalui_validation_code_countdown">%d วินาที</string>
+    <string name="internationalui_network_unavailable">ไม่เชื่อมต่อเครือข่าย</string>
+    <string name="internationalui_loading_text">โหลด</string>
+
+
+    <string name="internationalui_verification_over_limit">เกินข้อจำกัด - ตรวจสอบรหัสต่อวันสามเท่านั้น</string>
+    <string name="internationalui_verification_phone_format_error">รูปไม่ถูกต้องของเลข</string>
+    <string name="internationalui_verification_phone_number_error">จำนวนไม่ถูกต้อง</string>
+    <string name="internationalui_verification_phone_input_invalid_error">จำนวนไม่ถูกต้อง</string>
+    <string name="internationalui_verification_send_ok">ส่งแล้ว</string>
+
+    <string name="internationalui_login_verification_expired">การตรวจสอบรหัสหมดอายุ</string>
+    <string name="internationalui_login_code_input_insuffient">กรุณาใส่รหัสผ่านอย่างใดอย่างหนึ่ง หรือตรวจสอบรหัส</string>
+    <string name="internationalui_login_data_not_found">ผู้ใช้ไม่มีอยู่</string>
+    <string name="internationalui_login_authorize_fail">ผิดตรวจสอบรหัส</string>
+    <string name="internationalui_login_no_permission">สิทธิ์ที่ถูกปฏิเสธ</string>
+
+    <string name="internationalui_network_other">เครือข่ายร้องขอยกเว้น</string>
+    <string name="internationalui_number_invalid_hint">กรุณาตรวจสอบหมายเลขโทรศัพท์</string>
+    <string name="internationalui_login_page_start_hint">เข้าสู่ระบบ</string>
+    <string name="internationalui_logout">ออกจากระบบ</string>
+
+    <!--备注"internationalui_captcha_message_template"勿改，为英文短信固定格式检测-->
+    <string name="internationalui_captcha_message_template">Your verification code: (\\d{4})</string>
+
+    <string name="internationalui_login_country_code_dialog_title">ความสนใจ</string>
+    <string name="internationalui_login_country_code_dialog_message">กรุณาเลือกรหัสประเทศ</string>
+    <string name="internationalui_login_country_code_dialog_ok">Ok</string>
+
+    <!--选择国家区号-->
+    <string name="internationalui_select_country_head_title">เลือกประเทศของคุณ</string>
+    <string name="internationalui_country_search_hint">ค้นหา</string>
+    <string name="internationalui_country_search_nothing_found">ขออภัยไม่มีอะไรพบ</string>
+
+    <!--个人中心-->
+    <string name="internationalui_personal_center_head_title">โปรไฟล์</string>
+    <string name="internationalui_personal_center_slogan">เข้าสู่ระบบ และสนุกกับการโทรออก</string>
+    <string name="internationalui_call_rates">อัตราค่าโทร</string>
+    <string name="internationalui_invite_friends">เชิญเพื่อน</string>
+    <string name="internationalui_international_free_call">โทรออกตอนนี้</string>
+    <string name="internationalui_personal_center_credits">เครดิตของฉัน</string>
+    <string name="internationalui_personal_center_recharge">เครดิตซื้อ</string>
+    <string name="internationalui_personal_center_recharge_title">กลม</string>
+    <string name="internationalui_personal_center_cloud_roaming">ข้ามเมฆ</string>
+    <string name="internationalui_personal_center_check_update_app">รุ่น</string>
+    <string name="internationalui_personal_center_feedback">ข้อคิดเห็น</string>
+    <!--资费列表-->
+    <string name="internationalui_call_rate_head_title">อัตราค่าโทร</string>
+    <string name="internationalui_call_rate_search_hint">โปรดระบุประเทศและรหัส</string>
+    <string name="internationalui_call_rate_column_code">รหัสประเทศ</string>
+    <string name="internationalui_call_rate_column_country">ประเทศและภูมิภาค</string>
+    <string name="internationalui_call_rate_column_credit_per_minute">หน่วยกิต / นาที</string>
+    <string name="internationalui_call_msg_warning_country_code">โปรดตรวจสอบรหัสประเทศสำหรับโทรศัพท์: %s</string>
+    <string name="internationalui_call_msg_choose_country">เลือกประเทศ</string>
+
+    <!--扣费列表-->
+    <string name="internationalui_cost_list_head_title">รายละเอียดต้นทุน</string>
+    <string name="internationalui_cost_list_my_credits_text">เครดิตของฉัน</string>
+    <string name="internationalui_cost_list_recharge_history_title">ประวัติการเติมเงิน</string>
+    <string name="internationalui_cost_list_cost_history_title">ประวัติต้นทุน</string>
+    <string name="internationalui_cost_list_no_history">ไม่มีบันทึก</string>
+    <string name="internationalui_cost_list_recharge_order">คำสั่งซื้อ&#32;</string>
+    <string name="internationalui_cost_list_cloud_roaming_purchase_order">Cloud Roaming Order&#32;</string>
+    <string name="internationalui_cost_list_loading_more_date">...</string>
+    <string name="internationalui_cost_list_loading_no_more_date">ไม่มีข้อมูลเพิ่มเติม</string>
+
+    <!--公司品牌声明-->
+    <string name="internationalui_international_brand_delare_title">บริการ โดย Touchpal สงวนสิทธิ์ทั้งหมด</string>
+
+    <string name="internationalui_feedback_putinbutton_log_only">อัปโหลดบันทึกเท่านั้น</string>
+
+    <!-- update -->
+    <string name="internationalui_dlg_standard_title">แจ้ง</string>
+    <string name="internationalui_pro_apk_mandatory_update">ใหม่รุ่นพร้อมแล้ว คุณต้องปรับรุ่นก่อนที่จะดำเนิน</string>
+    <string name="internationalui_pref_software_version">ซอฟต์แวร์รุ่น</string>
+    <string name="internationalui_pref_update_software_title">ซอฟต์แวร์ปรับปรุง</string>
+    <string name="internationalui_update_uptodate">ตรวจสอบปรับปรุง</string>
+    <string name="internationalui_update_title">รุ่นใหม่</string>
+    <string name="internationalui_update_checking">การตรวจสอบปรับปรุง</string>
+    <string name="internationalui_update_no_network">ไม่เชื่อมต่อเครือข่าย</string>
+    <string name="internationalui_update_ongoing">ไม่เชื่อมต่อเครือข่าย</string>
+    <string name="internationalui_update_dialog_btn_text_update_now">ปรับปรุงเดี๋ยวนี้</string>
+    <string name="internationalui_update_dialog_btn_text_install_now">ติดตั้งเดี๋ยวนี้</string>
+    <string name="internationalui_update_dialog_btn_text_later">ในภายหลัง</string>
+
+    <string name="internationalui_download_app_failed_no_space">ดาวน์โหลดล้มเหลวเนื่องจากไม่มีช่องว่างด้านซ้าย</string>
+    <string name="internationalui_download_app_in_progress">ใหม่รุ่นดาวน์โหลด</string>
+    <string name="internationalui_download_app_in_progress2">%s ดาวน์โหลด</string>
+    <string name="internationalui_download_app_failed">ดาวน์โหลดล้มเหลว โปรดตรวจสอบเครือข่ายของคุณ</string>
+    <string name="internationalui_download_app_success">ดาวน์โหลดสำเร็จ</string>
+    <string name="internationalui_download_app_background">การปรับปรุงฟรี</string>
+    <string name="internationalui_download_app_background_normal">ดาวน์โหลดปกติ</string>
+    <string name="internationalui_download_app_background_high_speed">ความดาวน์โหลดเร็วสูง</string>
+    <string name="internationalui_download_app_percentage">ดาวน์โหลดเปอร์เซ็นต์:</string>
+    <string name="internationalui_download_app_percentage2">ดาวน์โหลด %s เปอร์เซ็นต์:</string>
+    <string name="internationalui_presentation_update">ปรับปรุงแฟ้มบันทึก</string>
+    <string name="internationalui_presentation_ing">ทำ...</string>
+
+    <string name="internationalui_dialog_logout_msg">คุณแน่ใจคุณต้องการออกจากระบบ</string>
+    <string name="internationalui_dialog_btn_msg_sure">ใช่ แน่</string>
+    <string name="internationalui_dialog_btn_msg_cancel">แน่นอนไม่ได้</string>
+    <string name="internationalui_dialog_title_msg">ความสนใจ</string>
+
+    <!--登录-用户协议-->
+    <string name="internationalui_service_policy_area_agree_text">เพื่อที่จะใช้ TP Dialer, โปรดอ่าน และทำตาม</string>
+    <string name="internationalui_service_policy_area_and_text">และ</string>
+    <string name="internationalui_service_policy_area_privicy_policy_text">นโยบายการเก็บข้อมูลส่วนบุคคล</string>
+    <string name="internationalui_service_policy_area_terms_of_service_text">ข้อตกลงผู้ใช้</string>
+    <string name="internationalui_service_policy_head_title">เงื่อนไขการใช้บริการ</string>
+
+    <string name="internationalui_dialog_title_tip">แจ้งให้ทราบ</string>
+    <string name="internationalui_goto_recharge">อีก</string>
+
+    <string name="internationalui_activate">เปิดใช้งาน</string>
+    <string name="internationalui_advices">คำแนะนำ</string>
+    <string name="internationalui_bug_report">รายงานปัญหา</string>
+    <string name="internationalui_optimization">การเพิ่มประสิทธิภาพ</string>
+
+    <string name="internationalui_tips_error_phone_number">รูปแบบตัวเลขไม่ถูกต้อง</string>
+
+    <!--feedback-->
+    <string name="internationalui_feedback_content_hint">ข้อเสนอแนะของคุณมีความสำคัญกับเรา ......</string>
+    <string name="internationalui_feedback_email">ที่อยู่อีเมล</string>
+    <string name="internationalui_feedback_email_hint">อีเมล</string>
+    <string name="internationalui_feedback_phone">หมายเลขโทรศัพท์</string>
+    <string name="internationalui_feedback_phone_hint">หมายเลขโทรศัพท์ (ไม่จำเป็น)</string>
+    <string name="internationalui_feedback_putinbutton">ส่ง</string>
+    <string name="internationalui_voip_brand">ข้อคิดเห็นโดย TouchPal</string>
+
+    <!--braintree-->
+    <string name="internationalui_braintree_purchase_best_discount_head_title">ซื้อเครดิต</string>
+    <string name="internationalui_braintree_purchase_braintree_setup_failed">ความล้มเหลวในการเริ่มต้นของ Braintree</string>
+    <string name="internationalui_braintree_purchase_checkout_canceled">รายการถูกยกเลิกแล้ว</string>
+    <string name="internationalui_braintree_purchase_checkout_failed">Pay fail</string>
+    <string name="internationalui_braintree_purchase_checkout_success">จ่ายความสำเร็จ</string>
+    <string name="internationalui_braintree_purchase_final_price">ราคาสุดท้าย</string>
+    <string name="internationalui_braintree_purchase_order_failed">ความล้มเหลวในการทำธุรกรรม</string>
+    <string name="internationalui_braintree_purchase_order_loading">การสร้างคำสั่งซื้อ ...</string>
+    <string name="internationalui_braintree_purchase_price_save">ส่วนลด: %1$s %2$.2f</string>
+    <string name="internationalui_braintree_purchase_submit">ส่ง</string>
+    <string name="internationalui_braintree_purchase_order_param_error">พารามิเตอร์ที่ขาดหายไปของธุรกรรม</string>
+    <string name="internationalui_braintree_purchase_developer_error">ยืนยันการชำระเงิน</string>
+    <string name="internationalui_braintree_purchase_server_error">ชำระเงินแพลตฟอร์มเครือข่ายผิดพลาด</string>
+    <string name="internationalui_braintree_purchase_server_unavailable">การบำรุงรักษาแพลตฟอร์มการชำระเงิน</string>
+
+    <!--feedback-->
+    <string name="internationalui_feedback_title">ข้อคิดเห็น</string>
+    <string name="internationalui_log_upload_success">อัปโหลดสำเร็จ</string>
+    <string name="internationalui_feedback_noti1">ส่งสำเร็จ ขอบคุณสำหรับคำติชมของคุณ</string>
+    <string name="internationalui_feedback_noti2">ส่งความล้มเหลว กรุณาตรวจสอบการตั้งค่าเครือข่าย</string>
+    <string name="internationalui_feedback_noti3">โปรดระบุคำถามและคำติชม</string>
+    <string name="internationalui_feedback_noti4">มันถูกจำกัด ด้วยคำ 1500 กรุณาตรวจสอบ และส่งอีกครั้ง</string>
+    <string name="internationalui_feedback_noti5">กรุณาแก้ไขบัญชีอีเมล์ของคุณ</string>
+    <string name="internationalui_feedback_noti6">กรุณาแก้ไขหมายเลขโทรศัพท์</string>
+    <string name="internationalui_feedback_tips_invalid_contact">ออกจากอีเมล์หรือมือถือของคุณโปรด</string>
+
+    <!--voip disconnect-->
+    <string name="internationalui_disconnect_error_accounterr">บัญชีผิดพลาด</string>
+    <string name="internationalui_disconnect_error_accoutrepeat">กรุณาโทรซ้ำในภายหลัง</string>
+    <string name="internationalui_disconnect_error_actionerr">บัญชีปกติ โปรดติดต่อเรา</string>
+    <string name="internationalui_disconnect_error_area">ไม่สนับสนุนพื้นที่</string>
+    <string name="internationalui_disconnect_error_busy">ไม่ว่าง โทรซ้ำในภายหลัง</string>
+    <string name="internationalui_disconnect_error_checknet">ตรวจสอบเครือข่าย และโทรซ้ำโปรด</string>
+    <string name="internationalui_disconnect_error_decline">ผู้ถูกเรียกอยู่ในสถานะออฟไลน์</string>
+    <string name="internationalui_disconnect_error_locationerr">ล้มเหลวในการรับตำแหน่ง</string>
+    <string name="internationalui_disconnect_error_neterror">ตรวจสอบเครือข่าย และโทรซ้ำ</string>
+    <string name="internationalui_disconnect_error_nomoney">จุดมีวิ่งออก</string>
+    <string name="internationalui_disconnect_error_normalcall">ข้อผิดพลาดของเครือข่าย กรุณาโทรซ้ำในภายหลัง</string>
+    <string name="internationalui_disconnect_error_nottpaccount">คุณสามารถโทร TP Dialer ผู้ใช้เท่านั้น</string>
+    <string name="internationalui_disconnect_error_restart">กรุณารีสตาร์ทโทรศัพท์ของคุณ</string>
+    <string name="internationalui_disconnect_error_routeerr">โทรศัพท์ไม่สนับสนุน</string>
+    <string name="internationalui_disconnect_error_serverrestart">ยกเว้นการเชื่อมต่อ กรุณารีบูต</string>
+    <string name="internationalui_disconnect_error_serverunknow">เซิร์ฟเวอร์ไม่พบ กรุณาโทร</string>
+    <string name="internationalui_disconnect_error_versionlow">รุ่นไม่ต่ำเกินไป กรุณาปรับรุ่น</string>
+    <string name="internationalui_disconnect_error_normal">การหักล้างปกติ</string>
+    <string name="internationalui_disconnect_error_comment_busy">หมายเลขที่คุณเรียกคือว่างตอนนี้ \n กรุณาโทรซ้ำในภายหลัง</string>
+    <string name="internationalui_disconnect_error_comment_no_answer">สมาชิก dailing จะไม่สามารถเชื่อมต่อตอนนี้</string>
+
+    <!--voip-->
+    <string name="internationalui_permission_noti_audio">สิทธิ์ขอ: ไมโครโฟน</string>
+    <string name="internationalui_voip_call_noti7">ผู้เรียกและผู้ถูกเรียกควรใช้จำนวน</string>
+    <string name="internationalui_dialog_nevernotify">ไม่ต้องแจ้งเตือน</string>
+    <string name="internationalui_tips_use_country_calling_code">โทร %s โดย</string>
+    <!--new-->
+    <string name="internationalui_voip_notification_incall">ในการเรียก (%s)</string>
+    <string name="internationalui_voip_notification_outgoing">โทรศัพท์...</string>
+    <string name="internationalui_voip_notification_incoming"><![CDATA[โทรเข้ามา คลิกและตรวจสอบ]]></string>
+    <string name="internationalui_country_token_invalid_error">โทเค็นไม่ถูกต้อง</string>
+    <string name="internationalui_recharge_select_phonenumber">选择充值号码</string>
+    <string name="internationalui_retry">ลองใหม่อีกครั้ง</string>
+
+    <string name="internationalui_stripe_money_lable">ราคารวม</string>
+    <string name="internationalui_stripe_money">%s ดอลล่าร์</string>
+    <string name="internationalui_stripe_totle_money">ต้องจ่ายเงิน</string>
+    <string name="internationalui_stripe_title">จ่ายเงิน</string>
+    <string name="internationalui_stripe_card_number_lable">หมายเลขบัตรเครดิต</string>
+    <string name="internationalui_stripe_card_number_hint">โปรดป้อนหมายเลขบัตรของคุณ</string>
+    <string name="internationalui_stripe_expire_date_lable">วันหมดอายุ</string>
+    <string name="internationalui_stripe_expire_date_hint">โปรดเลือกวันที่หมดอายุ</string>
+    <string name="internationalui_stripe_card_cvc_lable">CVC</string>
+    <string name="internationalui_stripe_card_cvc_hint">โปรดใส่การ์ดหลังเลขสามหลัก</string>
+    <string name="internationalui_stripe_card_msg_error">การตรวจสอบความถูกต้องของข้อมูลล้มเหลวโปรดตรวจสอบว่าข้อมูลการป้อนข้อมูลถูกต้องหรือไม่</string>
+    <string name="internationalui_stripe_pay_loading_msg">กำลังชำระเงินโปรดรอสักครู่</string>
+    <string name="internationalui_stripe_pay_btn_sure">ยืนยันการชำระเงิน</string>
+    <string name="internationalui_charge_result_exception">ข้อยกเว้นในการชำระเงินโปรดตรวจสอบคะแนนของฉันในภายหลัง</string>
+    <string name="internationalui_charge_create_token_exception">ไม่สามารถสร้างบัตรกำนัลการชำระเงิน</string>
+
+    <string name="internationalui_date_pick_format_year">%s</string>
+    <string name="internationalui_date_pick_format_month">%s</string>
+
+    <string name="internationalui_log_upload_fail">ล้มเหลว</string>
+    <string name="internationalui_log_upload_process">อัปโหลด...</string>
+</resources>

@@ -1,0 +1,187 @@
+code_str,name_str,SP
+internationalui_call_process_country_china,China,China
+internationalui_call_process_calling,Calling,llamando
+internationalui_call_process_record,Record,r¨¦cord
+internationalui_call_process_redial,Redial,rellamar
+internationalui_call_process_recharge,Recharge,recargar
+internationalui_call_process_mute,Mute,mudo
+internationalui_call_process_speaker,Speaker,marcador
+internationalui_disconnect_close,Close,apagado
+internationalui_disconnect_redial,Redial,rellamar
+internationalui_login_head_title,Create Account ,crear cuenta
+internationalui_country_input_hint,Country,pa¨ªs
+internationalui_country_code_input_hint,Code,c¨®digo
+internationalui_phone_input_hint,Enter your phone number,ingresar tu n¨²mero
+internationalui_validation_code_input_hint,Enter verify code,ingresar el c¨®digo de verificaci¨®n
+internationalui_validation_code_query_hint,Verify phone number,verificar el n¨²mero
+internationalui_validation_code_requery,Resend,reenviar
+internationalui_validation_code_countdown,%d seconds,segundos
+internationalui_network_unavailable,No network connection,no hay conecci¨®n con internet
+internationalui_loading_text,Loading,cargando
+internationalui_verification_over_limit,Beyond limitations - only three of verify codes per day,fuera de limitaci¨®n-solo tres c¨®digos de verificaci¨®n al d¨ªa
+internationalui_verification_phone_format_error,Incorrect format of number,formato de n¨²mero incorrecto
+internationalui_verification_phone_number_error,Incorrect number,n¨²mero incorrecto
+internationalui_verification_phone_input_invalid_error,Invalid number,n¨²mero inv¨¢lido
+internationalui_verification_send_ok,Already sent,enviado 
+internationalui_login_verification_expired,Verify code expired,c¨®digo de verificaci¨®n expirado
+internationalui_login_code_input_insuffient,Please provide either password or verify code,favor de proveer contrase_a o c¨®digo de verificaci¨®n
+internationalui_login_data_not_found,User doesn¡¯t exist,no existe el usuario
+internationalui_login_authorize_fail,Wrong verify code,c¨®digo de verificaci¨®n falso
+internationalui_login_no_permission,Permission denied,permiso rechazado
+internationalui_network_other,Network request exception,error en la solicitud de red
+internationalui_number_invalid_hint,Please check your phone number,favor de revisar tu n¨²mero 
+internationalui_login_page_start_hint,Login,iniciar sesi¨®n
+internationalui_logout,Log out,cerrar sesi¨®n
+internationalui_captcha_message_template,Your verification code: (\\d{4}),tu c¨®digo de verificaci¨®n
+internationalui_login_country_code_dialog_title,Attention,atenci¨®n
+internationalui_login_country_code_dialog_message,Please select the country code,favor de seleccionar el c¨®digo de pa¨ªs
+internationalui_login_country_code_dialog_ok,Ok,s¨ª
+internationalui_select_country_head_title,Select Your Country,seleccionar tu pa¨ªs
+internationalui_country_search_hint,Search,buscar
+internationalui_country_search_nothing_found,"Sorry, nothing found","perd¨®n, no se encuentra nada"
+internationalui_personal_center_head_title,My Info,mi informaci¨®n
+internationalui_personal_center_slogan,Login and enjoy dialing!,iniciar sesi¨®n y disfrutar la llamada
+internationalui_call_rates,Call Rates,tarifa de llamada
+internationalui_invite_friends,Invite Friends,invitar amigos
+internationalui_international_free_call,Make a phone call now,hacer una llamada ahora
+internationalui_personal_center_credits,My Credits,mis cr¨¦ditos
+internationalui_personal_center_recharge,Top up,completar
+internationalui_personal_center_recharge_title,Recharge,recargar
+internationalui_personal_center_cloud_roaming,Cloud Roaming,vagar en la nube
+internationalui_personal_center_check_update_app,Version,versi¨®n
+internationalui_personal_center_feedback,Feedback,realimentaci¨®n
+internationalui_call_rate_head_title,Call Rate,tarifa de llamada
+internationalui_call_rate_search_hint,Please enter country and code,favor de escribir pa¨ªs y c¨®digo
+internationalui_call_rate_column_code,Code,c¨®digo
+internationalui_call_rate_column_country,Countries and regions,pa¨ªses y regiones
+internationalui_call_rate_column_credit_per_minute,Credits/Min,cr¨¦ditos/Min
+internationalui_call_msg_warning_country_code,Please verify the country code for the phone: %s,favor de revisar el c¨®digo de pa¨ªs para el celular
+internationalui_call_msg_choose_country,Choose country,seleccionar pa¨ªs
+internationalui_cost_list_head_title,Cost Detail,detalle de costo
+internationalui_cost_list_my_credits_text,My Credits,mis cr¨¦ditos
+internationalui_cost_list_recharge_history_title,Recharge History,historia de recarga
+internationalui_cost_list_cost_history_title,Cost History,historia de costo
+internationalui_cost_list_no_history,No record,no hay r¨¦cord
+internationalui_cost_list_recharge_order,Order ,pedido
+internationalui_cost_list_cloud_roaming_purchase_order,Cloud Roaming Order ,pedido de vagar por la nube
+internationalui_cost_list_loading_more_date,...,ÿ
+internationalui_cost_list_loading_no_more_date,No more data,no hay m¨¢s datos
+internationalui_international_brand_delare_title,Service provided by Touchpal. All right reserved.,servicio proporcionado por Touchpal. Derecho reservado
+internationalui_feedback_putinbutton_log_only,UPLOAD LOG ONLY,SOLO PARA ENVIAR LOG
+internationalui_dlg_standard_title,Notification,notificaci¨®n
+internationalui_pro_apk_mandatory_update,"New version is ready, you have to upgrade before you continue","Nueva versi¨®n lista, hay que modernizar para continuar"
+internationalui_pref_software_version,Software version,versi¨®n de software
+internationalui_pref_update_software_title,Software update,actualizaci¨®n de software
+internationalui_update_uptodate,Check Updates,revisar las actualizaciones
+internationalui_update_title,New Version,nueva versi¨®n  
+internationalui_update_checking,Checking updates,revisando actualizaciones
+internationalui_update_no_network,No network connection,no hay conecci¨®n con internet
+internationalui_update_ongoing,Update is runing in the background,actualizando en el fondo
+internationalui_update_dialog_btn_text_update_now,Update now,actualizar ahora
+internationalui_update_dialog_btn_text_install_now,Install now,instalar ahora
+internationalui_update_dialog_btn_text_later,Later,m¨¢s tarde
+internationalui_download_app_failed_no_space,Download failure due to no space left,error en dascargar por insuficiencia de espacio
+internationalui_download_app_in_progress,New version is downloading,descargando nueva versi¨®n
+internationalui_download_app_in_progress2,The %s is downloading,descargando
+internationalui_download_app_failed,"Download failure, please check your network","descarga fallada, favor de revisar internet"
+internationalui_download_app_success,Download success,¨¦xito en descarga
+internationalui_download_app_background,Update for free,actualizar gratis
+internationalui_download_app_background_normal,Normal download,descarga normal
+internationalui_download_app_background_high_speed,High speed download,descarga a alta velocidad
+internationalui_download_app_percentage,Download percentage: ,porcentaje de descarga
+internationalui_download_app_percentage2,Download %s percentage: ,porcentaje %s de descarga
+internationalui_presentation_update,Update log,actualizar log
+internationalui_presentation_ing,Doing...,haciendo 
+internationalui_dialog_logout_msg,Are you sure you wanna log out£¿,seguro que quieres cerrar sesi¨®n
+internationalui_dialog_btn_msg_sure,Yes,s¨ª
+internationalui_dialog_btn_msg_cancel,No,no
+internationalui_dialog_title_msg,Attention,atenci¨®n
+internationalui_service_policy_area_agree_text,"To use TP Dialer, please read and follow","para usar TP Diales, favor de leer y seguir"
+internationalui_service_policy_area_and_text,and,y
+internationalui_service_policy_area_privicy_policy_text,Privacy Policy,pol¨ªtica de privacidad
+internationalui_service_policy_area_terms_of_service_text,User Agreement,acuerdo de usuario
+internationalui_service_policy_head_title,Terms of Service,t¨¦rmino de servicio
+internationalui_dialog_title_tip,Attention,atenci¨®n
+internationalui_goto_recharge,Top up,recargar
+internationalui_activate,Activate,activar
+internationalui_advices,Suggestions,consejos
+internationalui_bug_report,Bug?report,reporte de bug
+internationalui_optimization,Optimization,optimizaci¨®n
+internationalui_tips_error_phone_number,Wrong phone number,n¨²mero error
+internationalui_feedback_content_hint,Your feedback is very important to us ...,tu realimentaci¨®n es muy importante para nosotros
+internationalui_feedback_email,Email?address,correo electr¨®nico
+internationalui_feedback_email_hint,Leave?your?email?please,favor de dejar tu correo
+internationalui_feedback_phone,Phone?number,n¨²mero de tel¨¦fono
+internationalui_feedback_phone_hint,optional,opcional
+internationalui_feedback_putinbutton,SUBMIT,enviar
+internationalui_voip_brand,Feedback from TouchPal?Contacts support,realimentaci¨®n del soporte de contactos Touchpal
+internationalui_braintree_purchase_best_discount_head_title,Recharge,recargar
+internationalui_braintree_purchase_final_price,Final Price,precio final
+internationalui_braintree_purchase_price_save,Discount: %1$s %2$.2f,descuento
+internationalui_braintree_purchase_submit,Submit,enviar
+internationalui_braintree_purchase_order_loading,Creating the order...,crear pedido
+internationalui_braintree_purchase_checkout_success,Pay success,pagado
+internationalui_braintree_purchase_checkout_failed,Pay failure,pagar fallado
+internationalui_braintree_purchase_checkout_canceled,The transaction has been cancelled,tansacci¨®n cancelada
+internationalui_braintree_purchase_braintree_setup_failed,Braintree initialization failure,iniciaci¨®n de plataforma de pago fallada
+internationalui_braintree_purchase_order_failed,Transaction failure,tansacci¨®n fallada
+internationalui_braintree_purchase_order_param_error,Missing order parameter,par¨¢metro de pedido perdido
+internationalui_braintree_purchase_developer_error,Payment verification,verificaci¨®n de pago
+internationalui_braintree_purchase_server_error,Payment platform network error,error en el internet de plataforma de pago
+internationalui_braintree_purchase_server_unavailable,Payment platform maintenance,mantenimiento de plataforma de pago
+internationalui_feedback_title,Feedback,realimentaci¨®n
+internationalui_log_upload_success,success,¨¦xito  
+internationalui_feedback_noti1,"Submit success, thank you for your feedback","¨¦xito en enviar, gracias por tu realimentaci¨®n"
+internationalui_feedback_noti2,"Submit failure, please check network settings","fallado en enviar, favor de revisar tu internet"
+internationalui_feedback_noti3,Please enter your questions and feedback,favor de escribir tu pregunta y realimentaci¨®n
+internationalui_feedback_noti4,"It\'s limited by 1500 words, please check and submit again","l¨ªmite de 1500 palabras, favor de revisar y reenviar"
+internationalui_feedback_noti5,Please correct your Email account,favor de corregir tu cuenta de Email
+internationalui_feedback_noti6,Please correct your phone number,favor de corregir tu n¨²mero
+internationalui_feedback_tips_invalid_contact,Leave?your?Email?or?Mobile?please,favor de dejar tu correo o n¨²mero
+internationalui_disconnect_error_accounterr,Account error,error de cuenta
+internationalui_disconnect_error_accoutrepeat,Please redial later,favor de remarcar
+internationalui_disconnect_error_actionerr,"Account abnormal, please contact us","cuenta anormal, favor de contactarnos"
+internationalui_disconnect_error_area,Unsupported area,¨¢rea fuera de cubrimiento
+internationalui_disconnect_error_busy,"Busy, redial later","ocupado, remarca despu¨¦s"
+internationalui_disconnect_error_checknet,Check your network and redial please,revisar tu internet y remarca despu¨¦s
+internationalui_disconnect_error_decline,Callee is offline,usuario desconectado
+internationalui_disconnect_error_locationerr,Fail to get location,fallado en tener tu ubicaci¨®n
+internationalui_disconnect_error_neterror,Check your network and redial,revisar tu internet y remarca despu¨¦s
+internationalui_disconnect_error_nomoney,Credits ran out,cr¨¦ditos acabados
+internationalui_disconnect_error_normalcall,"Network error, please redial later","error en internet, favor de remarcar despu¨¦s"
+internationalui_disconnect_error_nottpaccount,Can only dial TP Dialer user,solo puede llamar TP Dialer
+internationalui_disconnect_error_restart,Please restart your phone,favor de reiniciar tu celular
+internationalui_disconnect_error_routeerr,Unsupported fixed number,n¨²mero fijo fuera de cubrimiento
+internationalui_disconnect_error_serverrestart,"Connection exception, please reboot","conecci¨®n fallada, favor de reiniciar "
+internationalui_disconnect_error_serverunknow,"Server not found, please redial","servidor no encontrado, favor de remarcar"
+internationalui_disconnect_error_versionlow,"Low version, please upgrade","versi¨®n baja, favor de actualizar"
+internationalui_disconnect_error_normal,Normal Clearing,t¨¦rmino de llamada
+internationalui_disconnect_error_comment_busy,The number you dialed is busy now\n please redial later,"el n¨²mero que marcas es ocupado, favor de remarcar"
+internationalui_disconnect_error_comment_no_answer,The subscriber you are dailing cannot be connected now,el n¨²mero que marcas no se puede conectar
+internationalui_permission_noti_audio,Permission request: Microphone,solicitud de permiso: micr¨®fono
+internationalui_voip_call_noti7,Caller and callee should not share the number,llamador y llamado deben tener n¨²mero distinto
+internationalui_dialog_nevernotify,Never notify again,no notifica m¨¢s
+internationalui_tips_use_country_calling_code,dial with %s,llamar
+internationalui_voip_notification_incall,In Call(%s),llamando
+internationalui_voip_notification_outgoing,Dialing¡­,marcando
+internationalui_voip_notification_incoming,"Call incoming, click & check","llamada entrando, clic y v¨¦alo"
+internationalui_country_token_invalid_error,Invalid token,token inv¨¢lido
+internationalui_recharge_select_phonenumber,Ñ¡Ôñ³äÖµºÅÂë,seleccionar el n¨²mero de recarga
+internationalui_retry,retry,reintentar
+internationalui_stripe_money_lable,Total price,precio en total
+internationalui_stripe_money,%s USD,USD
+internationalui_stripe_totle_money,Need to pay the amount,se necesita pagar por el monte
+internationalui_stripe_title,Pay,pagar  
+internationalui_stripe_card_number_lable,credit card number,n¨²mero de tarjeta de cr¨¦dito
+internationalui_stripe_card_number_hint,Please enter your card number,favor de ingresar tu n¨²mero de tarjeta de cr¨¦dito
+internationalui_stripe_expire_date_lable,Expiry date,fecha de expiraci¨®n
+internationalui_stripe_expire_date_hint,Please select a expiry date,favor de seleccionar la fecha de expiraci¨®n
+internationalui_stripe_card_cvc_lable,CVC,CVC
+internationalui_stripe_card_cvc_hint,Please enter the card after the back of the three digits,favor de ingresar los tres n¨²meros en la vuelta de la tarjeta
+internationalui_stripe_card_msg_error,"Verification of information failed, please check whether the input information is correct","fallada en la verificaci¨®n de informaci¨®n, favor de revisar si la informaci¨®n ingresada es correcta."
+internationalui_stripe_pay_loading_msg,"Being paid,please wait","pagando, favor de esperar"
+internationalui_stripe_pay_btn_sure,confirm payment,pago confirmado
+internationalui_charge_result_exception,"Payment request exception, please check my points later","error en solicitud de pago, favor de revisar mis puntos despu¨¦s"
+internationalui_charge_create_token_exception,Failed to generate payment voucher,fallado en generar el cup¨®n de pago
+internationalui_date_pick_format_year,%s,%s
+internationalui_date_pick_format_month,%s,%s

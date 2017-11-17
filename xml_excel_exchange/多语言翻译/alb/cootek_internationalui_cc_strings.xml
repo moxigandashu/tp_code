@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!--通话-->
+<string name="internationalui_call_process_country_china">الصين</string>
+<string name="internationalui_call_process_calling">المكالمات</string>
+<string name="internationalui_call_process_record">مذاكرات الصوت</string>
+<string name="internationalui_call_process_redial">إعادة المكالمات</string>
+<string name="internationalui_call_process_recharge">الشحن</string>
+<string name="internationalui_call_process_mute">صامت</string>
+<string name="internationalui_call_process_speaker">مكبر الصوت</string>
+<!--通话结束-->
+<string name="internationalui_disconnect_close">الإغلاق</string>
+<string name="internationalui_disconnect_redial">إعادة تدوير قرص الهاتف</string>
+<!--登录-->
+<string name="internationalui_login_head_title">دخول التسجيل</string>
+<string name="internationalui_country_input_hint">دولة</string>
+<string name="internationalui_country_code_input_hint">كود البلد</string>
+<string name="internationalui_phone_input_hint">تفضل املأ رقم  التلفون</string>
+<string name="internationalui_validation_code_input_hint">إملأ رفم التأكيد</string>
+<string name="internationalui_validation_code_query_hint">حصل على رقم  التأكيد</string>
+<string name="internationalui_validation_code_requery">إعادة الإرسال</string>
+<string name="internationalui_validation_code_countdown">s%</string>
+<string name="internationalui_network_unavailable">غير متاح</string>
+<string name="internationalui_loading_text">يحمل</string>
+<string name="internationalui_verification_over_limit">فوق الحدود</string>
+<string name="internationalui_verification_phone_format_error">شكل رقم التلفون  خطأ</string>
+<string name="internationalui_verification_phone_number_error">رقم التلفون خطأ</string>
+<string name="internationalui_verification_phone_input_invalid_error">رقم التلفون باطل</string>
+<string name="internationalui_verification_send_ok">نجح إرسال الطلب  للحصل على رقم  التأكيد</string>
+<string name="internationalui_login_verification_expired">رقم التأكيد باطل</string>
+<string name="internationalui_login_code_input_insuffient">كلمة السر أورقم  تأكيد،واحد منهما</string>
+<string name="internationalui_login_data_not_found">المعطيات غير  موجودة</string>
+<string name="internationalui_login_authorize_fail">رقم التأكيدخطأ</string>
+<string name="internationalui_login_no_permission">الحقوق غير كافية</string>
+<string name="internationalui_network_other">خطأ طلب الاترنت</string>
+<string name="internationalui_number_invalid_hint">تفضل بملأ رقم  التلفون الصحيح</string>
+<string name="internationalui_login_page_start_hint">الدخول</string>
+<string name="internationalui_logout">خروج</string>
+<!--备注"internationalui_captcha_message_template"勿改，为英文短信固定格式检测-->
+<string name="internationalui_captcha_message_template">رقم التحقق</string>
+<string name="internationalui_login_country_code_dialog_title">تلميح</string>
+<string name="internationalui_login_country_code_dialog_message">اختيار كود البلد</string>
+<string name="internationalui_login_country_code_dialog_ok">التاكيد</string>
+<!--选择国家区号-->
+<string name="internationalui_select_country_head_title">اختيار الدولة</string>
+<string name="internationalui_country_search_hint">بحث عن رقم الدولة</string>
+<string name="internationalui_country_search_nothing_found">لو يجد</string>
+<!--个人中心-->
+<string name="internationalui_personal_center_head_title">مركز الشخصية</string>
+<string name="internationalui_personal_center_slogan">دخول  او  ضرب التلفون مع صديقك فورا</string>
+<string name="internationalui_call_rates">ثمن المكالمات</string>
+<string name="internationalui_invite_friends">دعوة الأصدقاء</string>
+<string name="internationalui_international_free_call">المكالمة الان</string>
+<string name="internationalui_personal_center_credits">العدد</string>
+<string name="internationalui_personal_center_recharge">إعادة شحن العدد</string>
+<string name="internationalui_personal_center_recharge_title">إعادة الشحن</string>
+<string name="internationalui_personal_center_cloud_roaming">تجوال</string>
+<string name="internationalui_personal_center_check_update_app">نسخة</string>
+<string name="internationalui_personal_center_feedback">رد</string>
+<!--资费列表-->
+<string name="internationalui_call_rate_head_title">ثمن المكالمات</string>
+<string name="internationalui_call_rate_search_hint">املا اسم الدولة وكود البلد</string>
+<string name="internationalui_call_rate_column_code">رقم الدولة</string>
+<string name="internationalui_call_rate_column_country">الدولة والمنطقة</string>
+<string name="internationalui_call_rate_column_credit_per_minute">الدقيقة</string>
+<string name="internationalui_call_msg_warning_country_code">تفضل بتأكد رقم حسابك  تشمل رقم المنطقة</string>
+<string name="internationalui_call_msg_choose_country">اختيار وكود البلد</string>
+<!--扣费列表-->
+<string name="internationalui_cost_list_head_title">تفصيل الثمن</string>
+<string name="internationalui_cost_list_my_credits_text">ائتمائي</string>
+<string name="internationalui_cost_list_recharge_history_title">تاريخ الشحن</string>
+<string name="internationalui_cost_list_cost_history_title">تاريخ دفع الثمن</string>
+<string name="internationalui_cost_list_no_history">لا يوجد التاريخ</string>
+<string name="internationalui_cost_list_recharge_order">نموزج الطلب</string>
+<string name="internationalui_cost_list_cloud_roaming_purchase_order">نموزج الطلب  في التجول</string>
+<string name="internationalui_cost_list_loading_more_date">…</string>
+<string name="internationalui_cost_list_loading_no_more_date">لا يوجد مزيد من   المعلومات التاريخية</string>
+<!--公司品牌声明-->
+<string name="internationalui_international_brand_delare_title">الخدمة المتقدمة منtouch pal</string>
+<string name="internationalui_feedback_putinbutton_log_only">تحميل المجلة فقط</string>
+<!-- update -->
+<string name="internationalui_dlg_standard_title">تنبيه</string>
+<string name="internationalui_pro_apk_mandatory_update">تقدم tpبشكل شامل تحتاج الى التحديث في النسخة الجديدة</string>
+<string name="internationalui_pref_software_version">نسخة التطبيق</string>
+<string name="internationalui_pref_update_software_title">تحديث النسخة</string>
+<string name="internationalui_update_uptodate">كشف النسخة الجديدة</string>
+<string name="internationalui_update_title">وجد النسخة الجديدة</string>
+<string name="internationalui_update_checking">تكشيف التحديث</string>
+<string name="internationalui_update_no_network">فشل اتصل بالانترنت</string>
+<string name="internationalui_update_ongoing">يحدث التطبيق</string>
+<string name="internationalui_update_dialog_btn_text_update_now">تحديث فورا</string>
+<string name="internationalui_update_dialog_btn_text_install_now">ثبت فورا</string>
+<string name="internationalui_update_dialog_btn_text_later">نتحدث بعد الوقت</string>
+<string name="internationalui_download_app_failed_no_space">كانت المساحة مملوءة لايستطيع تنزيل</string>
+<string name="internationalui_download_app_in_progress">تنزيل التطبيق الجديد</string>
+<string name="internationalui_download_app_in_progress2">تنزيل التطبيقs٪</string>
+<string name="internationalui_download_app_failed">فشل التنزيل،</string>
+<string name="internationalui_download_app_success">نجح تنزيل التطبيق</string>
+<string name="internationalui_download_app_background">تحديث مجانا</string>
+<string name="internationalui_download_app_background_normal">تحديث بسرعة عادية</string>
+<string name="internationalui_download_app_background_high_speed">تحديث بسرعة سريعة</string>
+<string name="internationalui_download_app_percentage">تنزيل التطبيق</string>
+<string name="internationalui_download_app_percentage2">تنزيل s%</string>
+<string name="internationalui_presentation_update">تحديث المجلة</string>
+<string name="internationalui_presentation_ing">يفعل</string>
+<string name="internationalui_dialog_logout_msg">هل تتأكد من التخرج</string>
+<string name="internationalui_dialog_btn_msg_sure">بالتأكيد</string>
+<string name="internationalui_dialog_btn_msg_cancel">إلغاء</string>
+<string name="internationalui_dialog_title_msg">تنبيه</string>
+<!--登录-用户协议-->
+<string name="internationalui_service_policy_area_agree_text">اذا أردت استخدام  tp dialer،تفضل  بقراءة والتزام</string>
+<string name="internationalui_service_policy_area_and_text">أو</string>
+<string name="internationalui_service_policy_area_privicy_policy_text">سياسة الخصوصية</string>
+<string name="internationalui_service_policy_area_terms_of_service_text">اتفاق المستخدمين</string>
+<string name="internationalui_service_policy_head_title">سياسات الخدمات</string>
+<string name="internationalui_dialog_title_tip">تلميح touch pal</string>
+<string name="internationalui_goto_recharge">الذهب الى الشحن</string>
+<string name="internationalui_activate">تشغيل </string>
+<string name="internationalui_advices">النصيحة</string>
+<string name="internationalui_bug_report">رد المسألة</string>
+<string name="internationalui_optimization">التحسين</string>
+<string name="internationalui_tips_error_phone_number">هناك خطأ في  تشكيل الرقم</string>
+<!--feedback-->
+<string name="internationalui_feedback_content_hint">ردك مهم،سنستمع  اليها بجد</string>
+<string name="internationalui_feedback_email">عنوان البريد</string>
+<string name="internationalui_feedback_email_hint">بريد الالكتروني</string>
+<string name="internationalui_feedback_phone">رقم التلفون</string>
+<string name="internationalui_feedback_phone_hint">رقم التلفون(املأ أو لا)</string>
+<string name="internationalui_feedback_putinbutton">التقديم</string>
+<string name="internationalui_voip_brand">جاء رد المسألة من دعمtouch pal</string>
+<!--braintree-->
+<string name="internationalui_braintree_purchase_best_discount_head_title">شحن في مرحلة الخصم</string>
+<string name="internationalui_braintree_purchase_final_price">السعر</string>
+<string name="internationalui_braintree_purchase_price_save">الخصم: ١٪٢٪</string>
+<string name="internationalui_braintree_purchase_submit">تأكيد التقديم</string>
+<string name="internationalui_braintree_purchase_order_loading">تحميل الاشتراء</string>
+<string name="internationalui_braintree_purchase_checkout_success">نجح الدفع</string>
+<string name="internationalui_braintree_purchase_checkout_failed">فشل الدفع</string>
+<string name="internationalui_braintree_purchase_checkout_canceled">إلغاء عملية الدفع</string>
+<string name="internationalui_braintree_purchase_braintree_setup_failed">فشل تحديث المنبر</string>
+<string name="internationalui_braintree_purchase_order_failed">فشل الطلب التجاري</string>
+<string name="internationalui_braintree_purchase_order_param_error">نقص الطلب</string>
+<string name="internationalui_braintree_purchase_developer_error">إثابة الدفع</string>
+<string name="internationalui_braintree_purchase_server_error">هناك خطأ في  منبر الدفع</string>
+<string name="internationalui_braintree_purchase_server_unavailable">نحافظ على منبر  الدفع</string>
+<!--feedback-->
+<string name="internationalui_feedback_title">رد المسألة</string>
+<string name="internationalui_log_upload_success">نجح النقل الى اعلى</string>
+<string name="internationalui_feedback_noti1">نجح النقل،شكرا</string>
+<string name="internationalui_feedback_noti2">فشل النقل، خطأ الانترنت تفضل باختبار الانترنت</string>
+<string name="internationalui_feedback_noti3">املا مشكلتك وردك</string>
+<string name="internationalui_feedback_noti4">تجاوز عدد الكلمة ١٥٠٠،تفضل بتقليل</string>
+<string name="internationalui_feedback_noti5">تفضل بملا عنوان البريد الصحيح</string>
+<string name="internationalui_feedback_noti6">تفضل برقم التلفون  الصحيح</string>
+<string name="internationalui_feedback_tips_invalid_contact">املأ بريد إلكتروني ورقم التلفون</string>
+<!--voip disconnect-->
+<string name="internationalui_disconnect_error_accounterr">هناك انفصال عن رقم الحساب، تفضل بالمكالمات بعد ٢٤ساعة</string>
+<string name="internationalui_disconnect_error_accoutrepeat">هناك انفصال عن رقم الحساب،لا تكرر في المكالمات </string>
+<string name="internationalui_disconnect_error_actionerr">يخالف رقم الحساب، لا يمكن المكالمات مجانا </string>
+<string name="internationalui_disconnect_error_area">لم تقدم خدمة  المكالمات المجالية في  هذه المنطقة</string>
+<string name="internationalui_disconnect_error_busy">خط مشغول،تحاول بعد الوقت</string>
+<string name="internationalui_disconnect_error_checknet">تفضل بفحص  الاترنت</string>
+<string name="internationalui_disconnect_error_decline">ليس الجانب الأخر على لاترنت</string>
+<string name="internationalui_disconnect_error_locationerr">فشل الحصول على الموقع</string>
+<string name="internationalui_disconnect_error_neterror">تفضل بفحص  الانترنت،وإعادة  المكالمة</string>
+<string name="internationalui_disconnect_error_nomoney">استهلك الشحن</string>
+<string name="internationalui_disconnect_error_normalcall">خطأ الانترنت، تحول الى التلفون العادي</string>
+<string name="internationalui_disconnect_error_nottpaccount">لا يمكن التشغيل إلا بشرط ان  أخرى رقم الحساب touch pal</string>
+<string name="internationalui_disconnect_error_restart">إعادة التشغيل</string>
+<string name="internationalui_disconnect_error_routeerr">خطأ خط التلفون لا تدعم التلفون</string>
+<string name="internationalui_disconnect_error_serverrestart">خطأت محطة  الخدمة،تفضل  بتحرك التطبيق مرة أخرى</string>
+<string name="internationalui_disconnect_error_serverunknow">تفضل بالمكالمات مرة الأخرى</string>
+<string name="internationalui_disconnect_error_versionlow">تفضل بتحديث  التطبيق</string>
+<string name="internationalui_disconnect_error_normal">انتهت المكالمة</string>
+<string name="internationalui_disconnect_error_comment_busy">مشغول</string>
+<string name="internationalui_disconnect_error_comment_no_answer">لا توجد الاجابة</string>
+<!--voip-->
+<string name="internationalui_permission_noti_audio">تفضل بتقديم tp dialer الحقوق</string>
+<string name="internationalui_voip_call_noti7">لا تدعم نفس الرقم  حاليا</string>
+<string name="internationalui_dialog_nevernotify">لن تنبه</string>
+<string name="internationalui_tips_use_country_calling_code">المكالمة s%</string>
+<!--new-->
+<string name="internationalui_voip_notification_incall">في عملية المكالمات</string>
+<string name="internationalui_voip_notification_outgoing">يضرب التلفون</string>
+<string name="internationalui_voip_notification_incoming">يتصل بك،تلمس</string>
+<string name="internationalui_country_token_invalid_error">الرمز المميز غير فعال </string>
+<string name="internationalui_recharge_select_phonenumber">اختيار رقم الشحن</string>
+<string name="internationalui_retry">retry</string>
+<string name="internationalui_stripe_money_lable">المبلغ الاجمالي</string>
+<string name="internationalui_stripe_money">usd%</string>
+<string name="internationalui_stripe_totle_money">المبلغ المحتاج الى الدفع</string>
+<string name="internationalui_stripe_title">دفع الثمن</string>
+<string name="internationalui_stripe_card_number_lable">رقم البطاقة الائتماء</string>
+<string name="internationalui_stripe_card_number_hint">املأ رقم البطاقة الائتتماء</string>
+<string name="internationalui_stripe_expire_date_lable">يوم التنقضي</string>
+<string name="internationalui_stripe_expire_date_hint">اختيار يوم التنقضي</string>
+<string name="internationalui_stripe_card_cvc_lable">Cvc</string>
+<string name="internationalui_stripe_card_cvc_hint">تفضل بملأ </string>
+<string name="internationalui_stripe_card_msg_error">فشل تثبيت  المعلومات،تفضل  بالفحص</string>
+<string name="internationalui_stripe_pay_loading_msg">في عملية الدفع،لحظة</string>
+<string name="internationalui_stripe_pay_btn_sure">التأكيد على الدفع</string>
+<string name="internationalui_charge_result_exception">هناك خطأ في الدفع،تفضل بفحص العدد</string>
+<string name="internationalui_charge_create_token_exception">فشل تثبيت الدفع</string>
+<string name="internationalui_date_pick_format_year">٪سنة</string>
+<string name="internationalui_date_pick_format_month">شهر٪</string>
+</resources>

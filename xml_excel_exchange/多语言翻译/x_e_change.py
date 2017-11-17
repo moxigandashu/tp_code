@@ -31,14 +31,23 @@ def xml_csv(path):
 
 
 '''#csv--->xml'''
-soup=BeautifulSoup(open('baikal_strings.xml','r',encoding='utf-8'),'xml')
-ref_table=pd.read_csv('ref_table_TH.csv',encoding='gbk')
-n =ref_table.shape[0]
-for i in range(n):
-    target_str=ref_table['code_str'][i]
-    for item in soup.find_all('string',attrs={'name':target_str}):
-        item.string=str(ref_table['TH'][i])
-print(soup)
-with open('baikal_string_TH.xml','w') as f:
-    #f.write(soup.prettify())     
-    f.write(str(soup))
+paths=['cootek_internationalui_cc_strings.xml','strings.xml']
+ref_paths=['cootek_internationalui_cc_strings.xmlref_table.xlsx','strings.xmlref_table.xlsx']
+ref_paths=['cootek_internationalui_cc_strings.xmlref_table.xlsx','strings.xmlref_table.csv']
+
+def excel2xml(path,ref_path):
+    soup=BeautifulSoup(open(path,'r',encoding='utf-8'),'xml')
+    if(ref_path.split('.')[-1])=='xlsx':
+        ref_table=pd.read_excel(ref_path)
+    elif(ref_path.split('.')[-1])=='csv':
+        ref_table=pd.read_csv(ref_path,encoding='gbk')
+    tg_str=ref_table.columns[2]
+    n =ref_table.shape[0]
+    for i in range(n):
+        target_str=ref_table['code_str'][i]
+        for item in soup.find_all('string',attrs={'name':target_str}):
+            item.string=str(ref_table[tg_str][i])
+    print(soup)
+    with open(path,'w') as f:
+        #f.write(soup.prettify())     
+        f.write(str(soup))

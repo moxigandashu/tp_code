@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="keyboard_mode_qwert">Полная клавиатура(QWERTY)</string>
+<string name="keyboard_mode_num">9 клавиш</string>
+<string name="keyboard_copy">вставить</string>
+<string name="internayional_splash_thrd_desc">Цена намного ниже,чем у других операторов</string>
+<string name="internayional_splash_sec_desc">Включает мобильные или стационарные телефоны из любой страны</string>
+<string name="internayional_splash_firt_desc">Обеспечит качество звонков несмотря на дальность</string>
+<string name="internayional_splash_thrd_title">Сэкономить деньги на целый мобильный телефон</string>
+<string name="internayional_splash_sec_title">Бесплатно звонить в любую точку мира</string>
+<string name="internayional_splash_firt_title">качество звука всегда ясное</string>
+<string name="splash_skip">пропустить</string>
+<string name="splash_login">войти</string>
+<string name="conact_detail_edit">изменить</string>
+<string name="super_search_hint">найти</string>
+<string name="dialer_dialog_cancel">отменить</string>
+<string name="dialer_dialog_ensure">готово</string>
+<string name="dialer_dialog_call_forward">позвонить</string>
+<string name="internation_best_discount">сезон скидок</string>
+<string name="international_profile">профиль</string>
+<string name="international_conacts">контакты</string>
+<string name="dialer_call_record">вызовы</string>
+<string name="international_dialer">позвонить</string>
+<string name="contacts_no_permission">проверите право системы</string>
+<string name="contacts_no_empty">нет доступа к контактам</string>
+<string name="calllog_no_empty">нет доступа к вызовам</string>
+<string name="permission_noti_contacts">предоставьте TP Dialer право использования контакт</string>
+<string name="permission_noti_phone">предоставьте TP Dialer право использования телефона</string>
+<string name="contacts_add_fail">Не удалось добавить контактов</string>
+<string name="contacts_edit_fail">Не удалось изменить контактов</string>
+<string name="phonepad_copy_none">Отсутствует содержание для вставки </string>
+<string name="voip_sign_with_mobile">войти через номер телефона</string>
+<string name="voip_login_with_twitter">войти через Twitter</string>
+<string name="voip_login_with_facebook">войти через Facebook</string>
+<string name="voip_login_with_google">войти через Google</string>
+</resources>
