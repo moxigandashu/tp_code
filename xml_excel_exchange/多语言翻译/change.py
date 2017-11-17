@@ -9,6 +9,8 @@ import os
 import pandas as pd
 from bs4 import BeautifulSoup
 from tkinter import *
+from tkinter import messagebox
+from tkinter import filedialog
 
 '''#xml--->csv'''
 def xml_csv(path,save_path):
@@ -23,7 +25,7 @@ def xml_csv(path,save_path):
     ref_table=pd.DataFrame(ref_table,columns=['code_str','name_str'])
     #output to csv
     ref_table.to_excel(str(path)+'ref_table.xlsx',index=False)
-
+    notification()
 
 '''#csv--->xml'''
 def excel2xml(path,ref_path,save_path):
@@ -43,7 +45,22 @@ def excel2xml(path,ref_path,save_path):
     with open(path,'w',encoding='utf-8') as f:
         #f.write(soup.prettify())     
         f.write(str(soup))
-
+    notification()
+    
+#辅助函数
+def notification():
+    messagebox.showinfo(title='nofification',message='completed')
+def choose1():
+    excel_path=filedialog.askopenfilename()
+    v1.set(excel_path)
+    
+def choose2():
+    xml_path=filedialog.askopenfilename()
+    v2.set(xml_path)
+    
+def choose3():
+    save_path=filedialog.askdirectory()
+    v3.set(save_path)
 
 if __name__=="__main__":
     root =Tk()
@@ -63,7 +80,9 @@ if __name__=="__main__":
     xml_path.grid(row=1,column=1,padx=15,pady=5)
     save_path.grid(row=2,column=1,padx=15,pady=5)
 
-
+    Button(root,text='choose',width=10,command=choose1).grid(row=0,column=2)
+    Button(root,text='choose',width=10,command=choose2).grid(row=1,column=2)
+    Button(root,text='choose',width=10,command=choose3).grid(row=2,column=2)
     Button(root,text='xml->excel',width=10,command=lambda : xml_csv(xml_path.get(),save_path.get())).grid(row=3,column=0,pady=5)
     Button(root,text='excel->xml',width=10,command=lambda :excel2xml(xml_path.get(),excel_path.get(),save_path.get())).grid(row=3,column=1,sticky=W,pady=5)
     Button(root,text='exit',command=root.quit).grid(row=3,column=2,sticky=E,padx=10,pady=5)
